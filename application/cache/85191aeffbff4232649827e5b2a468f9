@@ -1,0 +1,1502 @@
+a:2:{s:6:"expire";i:1756957637;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="https://www.sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="https://www.sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="https://www.sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="https://www.sman3surabaya.sch.id/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="https://www.sman3surabaya.sch.id/"><img src="https://www.sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@sman3sby" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="sman3sby" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://SMAN 3 Surabaya" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121				    </div>
+				    <div class="sch incenter">
+				    031-3812356				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li >
+				    <a href="https://www.sman3surabaya.sch.id/">HOME</a>
+				</li>
+				<li class="level1"><a href="https://www.sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li class="level1"><a href="https://www.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li class="level1"><a href="https://www.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li class="level2"><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li class="level1"><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://www.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="https://www.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="level1"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="https://www.sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li ><a href="https://www.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="https://www.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://www.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li> 
+								<li ><a href="https://www.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li ><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content">
+	<div class="widget-title">
+		<h4>SISWA SMA NEGERI 3 SURABAYA <i class="fa fa-user"></i> </h4>
+	</div>
+	<div class="widget">
+		<div class="form-wrapper">
+			<form method="POST" action="https://www.sman3surabaya.sch.id/home/redirect_kelas">
+				<ol class="form">
+					<li>
+						<select style="width:auto;" name="kelas_id" onChange='this.form.submit()'>
+							<option value="">Kelas :</option>
+							<option value="52">X IBB</option><option value="53">X IPS - 1</option><option value="54">X IPS - 2</option><option value="55">X IPS - 3</option><option value="56">X IPS - 4</option><option value="57">X IPS - 5</option><option value="58">X MIPA - 1</option><option value="59">X MIPA - 2</option><option value="60">X MIPA - 3</option><option value="61">X MIPA - 4</option><option value="62">X MIPA - 5</option><option value="69">X MIPA - 6</option><option value="72">X MIPA - 7</option><option value="73">X MIPA - 8</option><option value="74">XI IBB</option><option value="75">XI IPS - 1</option><option value="76">XI IPS - 2</option><option value="77">XI IPS - 3</option><option value="78">XI IPS - 4</option><option value="79">XI IPS - 5</option><option value="80">XI MIPA - 1</option><option value="81">XI MIPA - 2</option><option value="82">XI MIPA - 3</option><option value="83">XI MIPA - 4</option><option value="84">XI MIPA - 5</option><option value="85">XI MIPA - 6</option><option value="86">XI MIPA - 7</option><option value="87">XI MIPA - 8</option><option value="88">XII IBB</option><option value="89">XII IPS - 1</option><option value="90">XII IPS - 2</option><option value="91">XII IPS - 3</option><option value="92">XII IPS - 4</option><option value="93">XII IPS - 5</option><option value="94">XII MIPA - 1</option><option value="95">XII MIPA - 2</option><option value="96">XII MIPA - 3</option><option value="97">XII MIPA - 4</option><option value="98">XII MIPA - 5</option><option value="99">XII MIPA - 6</option><option value="100">XII MIPA - 7</option><option value="101">XII MIPA - 8</option><option value="107">X-1</option>						</select>
+					</li>
+				</ol>
+
+			</form>
+		</div>
+				<table class="table">
+			<thead>
+				<th>NO</th>
+				<th>NISN</th>
+				<th>NAMA</th>
+				<th>JENIS KELAMIN</th>
+				<th>&nbsp;</th>
+			</thead>
+			<tbody>
+				
+								<tr>
+					<td>501</td>
+					<td>0064653903</td>
+					<td>HANIFA ISKANDAR</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0064653903"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0064653903" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0064653903					        			<br>
+										<b>Nama</b> : HANIFA ISKANDAR										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : KOTA BANYUMAS, , 08 Mei 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : JL.KALIJUDAN G.XII										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP ASA CENDEKIA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : ISKANDAR										<br>
+										<b>Nama Ibu</b> : SUMARTI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>502</td>
+					<td>0063056063</td>
+					<td>IMELGA PUTRI ANASTASYA</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0063056063"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0063056063" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0063056063					        			<br>
+										<b>Nama</b> : IMELGA PUTRI ANASTASYA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 19 April 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LEBAK TIMUR ASRI 100 KAV.70										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 45 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : RUDI SUMARTOJO										<br>
+										<b>Nama Ibu</b> : DYAH PRATIWI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>503</td>
+					<td>0063148720</td>
+					<td>INE YUANGGI PUTRI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0063148720"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0063148720" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0063148720					        			<br>
+										<b>Nama</b> : INE YUANGGI PUTRI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 17 Juni 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LEBAK TIMUR 3/1										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 18 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : SUAT MADJI										<br>
+										<b>Nama Ibu</b> : VIVI ANGGORO WATI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>504</td>
+					<td>0067359048</td>
+					<td>MARIA AURELIA PUTERI NUGRAHA</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0067359048"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0067359048" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0067359048					        			<br>
+										<b>Nama</b> : MARIA AURELIA PUTERI NUGRAHA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 29 Januari 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : Jojoran Baru I/14										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP SANTO STANISLAUS 2										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : FERRYANTO NUGROHO										<br>
+										<b>Nama Ibu</b> : ANDRAS PALUPI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>505</td>
+					<td>0069501082</td>
+					<td>MEISYA INDI PRATIWI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0069501082"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0069501082" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0069501082					        			<br>
+										<b>Nama</b> : MEISYA INDI PRATIWI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 29 Mei 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : SUKOLILO LOR 5/2, KEC.BULAK, KEL.SUKOLILO										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP ROMLY TAMIM SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : ROHANDI YUSUF										<br>
+										<b>Nama Ibu</b> : DWI KARTIKASARI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>506</td>
+					<td>0062525327</td>
+					<td>Milhan Aulia Afandi</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0062525327"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0062525327" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0062525327					        			<br>
+										<b>Nama</b> : Milhan Aulia Afandi										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : Surabaya, , 31 Agustus 2006										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : Jambangan baru 1 / Kav. 4										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 1 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : LUTFI AFANDI										<br>
+										<b>Nama Ibu</b> : IKHTIARI NAWANINGDYAH, S.Pd.										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>507</td>
+					<td>0053957134</td>
+					<td>MONICHA TEANA HANDITRI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0053957134"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0053957134" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0053957134					        			<br>
+										<b>Nama</b> : MONICHA TEANA HANDITRI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SRAGEN, , 26 Nopember 2005										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LEBAK TIMUR 11 NO 4										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 15 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : JOHAN HENDRAWIDJAJA										<br>
+										<b>Nama Ibu</b> : KITRI HANDAYANI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>508</td>
+					<td>0058876568</td>
+					<td>Muflih Alief Adzikro</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0058876568"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0058876568" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0058876568					        			<br>
+										<b>Nama</b> : Muflih Alief Adzikro										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : Nganjuk, , 23 Agustus 2005										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LEBAK REJO No.112										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 60 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : Bambang Hadi Siswanto										<br>
+										<b>Nama Ibu</b> : Erly Riwahyuni										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>509</td>
+					<td>0067552352</td>
+					<td>MUHAMAD HARIRI</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0067552352"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0067552352" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0067552352					        			<br>
+										<b>Nama</b> : MUHAMAD HARIRI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 05 Januari 2006										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : Kejawan Lor 4/21										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 18 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : RIANTO BAKTI S										<br>
+										<b>Nama Ibu</b> : JULIANA										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>510</td>
+					<td>0055363146</td>
+					<td>MUHAMAD YONGKI SAPUTRA</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0055363146"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0055363146" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0055363146					        			<br>
+										<b>Nama</b> : MUHAMAD YONGKI SAPUTRA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : WONOGIRI, , 17 April 2005										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : MLETO I/12-C										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 19 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : Eko										<br>
+										<b>Nama Ibu</b> : PARNI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>511</td>
+					<td>0058002721</td>
+					<td>MUHAMMAD RIZKY FITRANSYAH</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0058002721"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0058002721" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0058002721					        			<br>
+										<b>Nama</b> : MUHAMMAD RIZKY FITRANSYAH										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 06 Nopember 2005										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : SETRO BARU VI / 65-A										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 18 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : YUDI NOFIANTO										<br>
+										<b>Nama Ibu</b> : TRI MULYANI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>512</td>
+					<td>0052115071</td>
+					<td>MUHAMMAD WILDAN SATRIANSYAH</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0052115071"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0052115071" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0052115071					        			<br>
+										<b>Nama</b> : MUHAMMAD WILDAN SATRIANSYAH										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 20 September 2005										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : KALIJUDAN 12/7										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP PGRI 1 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : WIYONO										<br>
+										<b>Nama Ibu</b> : SILVI RAHAYU MARDININGTYAS										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>513</td>
+					<td>0063998458</td>
+					<td>NAFANA ZULFA BAHRI SAPUTRI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0063998458"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0063998458" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0063998458					        			<br>
+										<b>Nama</b> : NAFANA ZULFA BAHRI SAPUTRI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 11 Januari 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LARANGAN VIII No. 103										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP ROMLY TAMIM SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : SYAIFUL BAHRI										<br>
+										<b>Nama Ibu</b> : UMI ZAKIAH										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>514</td>
+					<td>0057922111</td>
+					<td>NATASYA PRANSISKA BARINGIN</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0057922111"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0057922111" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0057922111					        			<br>
+										<b>Nama</b> : NATASYA PRANSISKA BARINGIN										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : PALEMBANG, , 13 Oktober 2005										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : BULAK KENJERAN I LEBAR NO. 4-C										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP TARUNA JAYA I SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : DONNER BARINGIN										<br>
+										<b>Nama Ibu</b> : DELMAWANI MALAU										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>515</td>
+					<td>0054491214</td>
+					<td>NUR FITRIA SHAVA ZALIANTI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0054491214"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0054491214" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0054491214					        			<br>
+										<b>Nama</b> : NUR FITRIA SHAVA ZALIANTI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SUMENEP, , 24 Nopember 2005										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : BOGORAMI TIMUR III/36										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 18 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : ABDUL JALIL										<br>
+										<b>Nama Ibu</b> : YANTI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>516</td>
+					<td>0066954160</td>
+					<td>RESYA ANINDRAJAYA</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0066954160"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0066954160" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0066954160					        			<br>
+										<b>Nama</b> : RESYA ANINDRAJAYA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 18 Juni 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : SETRO BARU UTARA XIV/7										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 60 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : ENDRA SUMANJAYA										<br>
+										<b>Nama Ibu</b> : NINIK SULISTYOWATI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>517</td>
+					<td>0065665873</td>
+					<td>REZA MARITA</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0065665873"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0065665873" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0065665873					        			<br>
+										<b>Nama</b> : REZA MARITA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : PASURUAN, , 01 Februari 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : Jl. Sukolilo VII No. 41A										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP ROMLY TAMIM SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : ZAINUL ABIDIN										<br>
+										<b>Nama Ibu</b> : MISTIN										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>518</td>
+					<td>0064666037</td>
+					<td>SABRINA AGUSTINA</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0064666037"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0064666037" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0064666037					        			<br>
+										<b>Nama</b> : SABRINA AGUSTINA										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 30 Agustus 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : Kejawan Lor 2										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 18 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : SAHLAN										<br>
+										<b>Nama Ibu</b> : UMU KULSUM										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>519</td>
+					<td>0067186337</td>
+					<td>SALSABILA PUTRI HARYANNI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0067186337"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0067186337" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0067186337					        			<br>
+										<b>Nama</b> : SALSABILA PUTRI HARYANNI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 22 Februari 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : LEBAK REJO 103A										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 15 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : DWIONO HARIJANTO										<br>
+										<b>Nama Ibu</b> : SRI ANDAYANI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>520</td>
+					<td>0063054541</td>
+					<td>SEKAR KWARINAPUTRI</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0063054541"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0063054541" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA SISWA</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:450px;">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0063054541					        			<br>
+										<b>Nama</b> : SEKAR KWARINAPUTRI										<br>
+										<b>Kelas</b> : X IPS - 3										<br>
+										<b>Status Siswa</b> : aktif										<br>
+										<b>Tempat, Tanggal lahir</b> : SIDOARJO, , 01 April 2006										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Status Anak</b> : Anak Kandung										<br>
+										<b>Anak ke</b> : 										<br>
+										<b>Alamat</b> : JL. ASEMROWO VI/12B										<br>
+										<b>Telp Rumah</b> : -----------										<br>
+										<b>Sekolah Asal</b> : SMP NEGERI 4 SURABAYA										<br>
+										<b>Diterima Dikelas</b> : 										<br>
+										<b>Pada Tanggal</b> : 										<br>
+										<b>Nama Ayah</b> : KAWI										<br>
+										<b>Nama Ibu</b> : DWI WULANDARI										<br>
+										<b>Alamat Orang Tua</b> : -----------										<br>
+										<b>Telepon Orang Tua</b> : 										<br>
+										<b>Pekerjaan Ayah</b> : 										<br>
+										<b>Pekerjaan Ibu</b> : 										<br>
+										<b>Nama Wali</b> : 										<br>
+										<b>Alamat Wali</b> : 										<br>
+										<b>Telp Wali</b> : 										<br>
+										<b>Pekerjaan Wali</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+							</tbody>
+		</table>
+
+				<div class="pagination">
+			<ul class="clearfix" style="float:left">
+				<li><a href="https://www.sman3surabaya.sch.id/home/siswa" data-ci-pagination-page="1" rel="start">&laquo;</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/480" data-ci-pagination-page="25" rel="prev">Prev</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/460" data-ci-pagination-page="24">24</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/480" data-ci-pagination-page="25">25</a></li><li class="active"><a>26</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/520" data-ci-pagination-page="27">27</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/540" data-ci-pagination-page="28">28</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/520" data-ci-pagination-page="27" rel="next">Next</a></li><li><a href="https://www.sman3surabaya.sch.id/home/siswa/800" data-ci-pagination-page="41">&raquo;</a></li>			</ul>
+		</div>
+					</div>
+</section>
+<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Sambutan Kepala Sekolah</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					</div>
+					 <p>Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya ...</p>
+					 <p><a class="samkep" href="https://www.sman3surabaya.sch.id/home/sambutan_kepala_sekolah">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>Jajak Pendapat</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="https://www.sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="https://www.sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="https://www.sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 <div class="widget-title">
+		  <h4><span>Banner </span> <i class="fa fa-heart"></i></h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>Kategori</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://www.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Arsip 2025</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://www.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Tautan</span> <i class="fa fa-list"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		</ul>
+	</div>
+	
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>SMA NEGERI 3 SURABAYA</h4>
+			    <p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 <br/><br/>
+				<i class="fa fa-phone"></i>  031-3812356<br/>
+				<i class="fa fa-envelope"></i>  info@sman3surabaya.sch.id			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>Kategori</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="https://www.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Arsip 2025</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="https://www.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Tautan</h4>
+	        </div>
+		    	        <div class="list">
+		        <ul class="ul-list clearfix">
+		     	<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		        </ul>
+	        </div>
+	        		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,1262 @@
+a:2:{s:6:"expire";i:1739253528;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="https://mail.sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="https://mail.sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="https://mail.sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="https://mail.sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="https://mail.sman3surabaya.sch.id/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="https://mail.sman3surabaya.sch.id/"><img src="https://mail.sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@sman3sby" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="sman3sby" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://SMAN 3 Surabaya" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121				    </div>
+				    <div class="sch incenter">
+				    031-3812356				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li >
+				    <a href="https://mail.sman3surabaya.sch.id/">HOME</a>
+				</li>
+				<li class="level1"><a href="https://mail.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li class="level1"><a href="https://mail.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li class="level2"><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li class="level1"><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="https://mail.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="level1"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://mail.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="https://mail.sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="https://mail.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="https://mail.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://mail.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://mail.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li> 
+								<li ><a href="https://mail.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li ><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://mail.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://mail.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content">
+	<div class="widget-title">
+		<h4>ALUMNI SMA NEGERI 3 SURABAYA <i class="fa fa-user"></i></h4>
+	</div>
+	<div class="widget">
+		<div class="form-wrapper">
+			<form method="POST" action="https://mail.sman3surabaya.sch.id/home/redirect_tahun_lulus">
+				<ol class="form">
+					<li>
+						<select style="width:auto;" name="tahun_lulus" onChange='this.form.submit()'>
+							<option value="">Tahun Lulus :</option>
+							<option value="2022">2022</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option>						</select>
+					</li>
+				</ol>
+			</form>
+		</div>
+				<table class="table">
+			<thead>
+				<th>NO</th>
+				<th>NISN</th>
+				<th>NAMA</th>
+				<th>JENIS KELAMIN</th>
+				<th>&nbsp;</th>
+			</thead>
+			<tbody>
+				
+								<tr>
+					<td>2086</td>
+					<td>0037651370</td>
+					<td>Andre Daffa Prasetyo Widodo</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037651370"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037651370" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037651370					        			<br>
+										<b>Nama</b> : Andre Daffa Prasetyo Widodo										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 07 Oktober 2003										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : BULAK RUKEM TIMUR I / 104										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2087</td>
+					<td>0037530777</td>
+					<td>Arif Mohammad Sahid</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037530777"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037530777" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037530777					        			<br>
+										<b>Nama</b> : Arif Mohammad Sahid										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 14 April 2003										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : DUKUH SETRO 9/40										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2088</td>
+					<td>0022620846</td>
+					<td>ARYO DAMAR PANULUH</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0022620846"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0022620846" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0022620846					        			<br>
+										<b>Nama</b> : ARYO DAMAR PANULUH										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 28 April 2004										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KENJERAN NO.507										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2089</td>
+					<td>0031403763</td>
+					<td>Ayu Putri Ameiliyana</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0031403763"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0031403763" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0031403763					        			<br>
+										<b>Nama</b> : Ayu Putri Ameiliyana										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 04 Mei 2003										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : POGOT BARU 11/14A										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2090</td>
+					<td>0043717485</td>
+					<td>Belva Felita Assyawalna</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0043717485"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0043717485" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0043717485					        			<br>
+										<b>Nama</b> : Belva Felita Assyawalna										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 30 Nopember 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : NGADI NO.21										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2091</td>
+					<td>0046592459</td>
+					<td>Diva Ananda Putri Santoso</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0046592459"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0046592459" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0046592459					        			<br>
+										<b>Nama</b> : Diva Ananda Putri Santoso										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 25 April 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KUPANG KRAJAN 3/704										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2092</td>
+					<td>0032365544</td>
+					<td>Eky Karimatun Nisa' Nabilah</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0032365544"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0032365544" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0032365544					        			<br>
+										<b>Nama</b> : Eky Karimatun Nisa' Nabilah										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 14 Desember 2003										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KALIJUDAN 9/23-C										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2093</td>
+					<td>0045272286</td>
+					<td>FEBRIAN RADITYA PERMANA</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0045272286"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0045272286" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0045272286					        			<br>
+										<b>Nama</b> : FEBRIAN RADITYA PERMANA										<br>
+										<b>Tempat, Tanggal lahir</b> : Surabaya, , 20 Februari 2004										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : Jl. Bhaskara VI/18										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2094</td>
+					<td>0043610429</td>
+					<td>Frisa Nabilah Rahma</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0043610429"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0043610429" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0043610429					        			<br>
+										<b>Nama</b> : Frisa Nabilah Rahma										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 16 Januari 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : JL. SETRO BARU UTARA IX / 31										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2095</td>
+					<td>0044063540</td>
+					<td>HAYATUN NUFUS</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0044063540"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0044063540" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0044063540					        			<br>
+										<b>Nama</b> : HAYATUN NUFUS										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 01 Juni 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : DUKUH BULAK BANTENG PATRIOT 3/27										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2096</td>
+					<td>0040118092</td>
+					<td>Herasasti Cahya Pratiwi</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0040118092"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0040118092" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0040118092					        			<br>
+										<b>Nama</b> : Herasasti Cahya Pratiwi										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 18 Februari 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KALIJUDAN 15/18-B										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2097</td>
+					<td>0037530829</td>
+					<td>Inggrid Putri Cahyono</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037530829"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037530829" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037530829					        			<br>
+										<b>Nama</b> : Inggrid Putri Cahyono										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 27 Juni 2003										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KAPAS MADYA BARAT 2/3										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2098</td>
+					<td>0043256275</td>
+					<td>Izza Alfina Salsabila</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0043256275"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0043256275" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0043256275					        			<br>
+										<b>Nama</b> : Izza Alfina Salsabila										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 08 Februari 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : Pantai Mentari Blok Y/04										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2099</td>
+					<td>0037530742</td>
+					<td>Jesicca Salwa Berlina Puteri</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037530742"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037530742" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037530742					        			<br>
+										<b>Nama</b> : Jesicca Salwa Berlina Puteri										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 08 Februari 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : LEBAK JAYA UTARA RAWASAN NO.57										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2100</td>
+					<td>0043256281</td>
+					<td>Maretha Putri Surya Mahendra</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0043256281"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0043256281" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0043256281					        			<br>
+										<b>Nama</b> : Maretha Putri Surya Mahendra										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 15 Maret 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : LEBAK TIMUR 4/20										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2101</td>
+					<td>0030049073</td>
+					<td>Merlyana Kiara Muhadjir</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0030049073"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0030049073" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0030049073					        			<br>
+										<b>Nama</b> : Merlyana Kiara Muhadjir										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 23 Nopember 2003										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : LEBAK REJO NO. 34										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2102</td>
+					<td>0037651270</td>
+					<td>Moch. Rezal Putra Prasetya</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037651270"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037651270" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037651270					        			<br>
+										<b>Nama</b> : Moch. Rezal Putra Prasetya										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 02 April 2003										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KAPAS LOR WETAN 7/24										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2103</td>
+					<td>0037332999</td>
+					<td>Mohammad Falahul Habibaini Nuruddin</td>
+					<td>Laki-Laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037332999"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037332999" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037332999					        			<br>
+										<b>Nama</b> : Mohammad Falahul Habibaini Nuruddin										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 15 Oktober 2003										<br>
+										<b>Jenis Kelamin</b> : Laki-Laki										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : KAPAS MADYA 1D/50										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2104</td>
+					<td>0043992278</td>
+					<td>Mutiara Artasasi</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0043992278"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0043992278" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0043992278					        			<br>
+										<b>Nama</b> : Mutiara Artasasi										<br>
+										<b>Tempat, Tanggal lahir</b> : Surabaya, , 28 Januari 2004										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : Setro Baru Utara 1/162										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2105</td>
+					<td>0037391832</td>
+					<td>Nakita Destiara Putri Kindy</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#0037391832"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="0037391832" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA ALUMNI</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns" style="min-height:200px;">
+						      							                        <img style="margin-top:3px;" src="https://mail.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NISN</b> : 0037391832					        			<br>
+										<b>Nama</b> : Nakita Destiara Putri Kindy										<br>
+										<b>Tempat, Tanggal lahir</b> : SURABAYA, , 23 Desember 2003										<br>
+										<b>Jenis Kelamin</b> : Perempuan										<br>
+										<b>Agama</b> : Islam										<br>
+										<b>Alamat</b> : BAMBANG SUTORO 42										<br>
+										<b>Telp</b> : -----										<br>
+										<b>Tahun Lulus</b> : 2022										<br>
+										<b>Aktivitas Sekarang</b> : 										<br>
+										<b>PIN BB</b> : 										<br>
+										<b>Facebook</b> : 										<br>
+										<b>Twitter</b> : 					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+							</tbody>
+		</table>
+
+				<div class="pagination">
+			<ul class="clearfix" style="float:left">
+				<li><a href="https://mail.sman3surabaya.sch.id/home/alumni" data-ci-pagination-page="1" rel="start">&laquo;</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2065" data-ci-pagination-page="104" rel="prev">Prev</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2040" data-ci-pagination-page="103">103</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2060" data-ci-pagination-page="104">104</a></li><li class="active"><a>105</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2100" data-ci-pagination-page="106">106</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2120" data-ci-pagination-page="107">107</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2100" data-ci-pagination-page="106" rel="next">Next</a></li><li><a href="https://mail.sman3surabaya.sch.id/home/alumni/2200" data-ci-pagination-page="111">&raquo;</a></li>			</ul>
+		</div>
+					</div>
+</section>
+<script src="https://mail.sman3surabaya.sch.id/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="https://mail.sman3surabaya.sch.id/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Sambutan Kepala Sekolah</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					    <img width="100%" title="Sunawan Hadi Santoso, S.Pd.,M.Pd" src="https://mail.sman3surabaya.sch.id/assets/ptk/4eadd85f10ae4c21ad4dc086e6464ec7.jpg" alt="image" style="margin-top:0;"/>
+					    					</div>
+					 <p>Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya ...</p>
+					 <p><a class="samkep" href="https://mail.sman3surabaya.sch.id/home/sambutan_kepala_sekolah">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>Jajak Pendapat</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="https://mail.sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="https://mail.sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="https://mail.sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 <div class="widget-title">
+		  <h4><span>Banner </span> <i class="fa fa-heart"></i></h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="https://mail.sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="https://mail.sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="https://mail.sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>Kategori</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://mail.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://mail.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Arsip 2025</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://mail.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://mail.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Tautan</span> <i class="fa fa-list"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg" target="_blank" title="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/humas_smagabaya/?hl=id" target="_blank" title="https://www.instagram.com/humas_smagabaya/?hl=id">Instagram SMAGA</a></li>		</ul>
+	</div>
+	
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>SMA NEGERI 3 SURABAYA</h4>
+			    <p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 <br/><br/>
+				<i class="fa fa-phone"></i>  031-3812356<br/>
+				<i class="fa fa-envelope"></i>  info@sman3surabaya.sch.id			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>Kategori</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="https://mail.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://mail.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Arsip 2025</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="https://mail.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://mail.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Tautan</h4>
+	        </div>
+		    	        <div class="list">
+		        <ul class="ul-list clearfix">
+		     	<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg" target="_blank" title="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/humas_smagabaya/?hl=id" target="_blank" title="https://www.instagram.com/humas_smagabaya/?hl=id">Instagram SMAGA</a></li>		        </ul>
+	        </div>
+	        		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>

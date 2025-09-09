@@ -1,0 +1,1311 @@
+a:2:{s:6:"expire";i:1756969553;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="https://www.sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="https://www.sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="https://www.sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="https://www.sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="https://www.sman3surabaya.sch.id/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="https://www.sman3surabaya.sch.id/"><img src="https://www.sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@sman3sby" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="sman3sby" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://SMAN 3 Surabaya" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121				    </div>
+				    <div class="sch incenter">
+				    031-3812356				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li >
+				    <a href="https://www.sman3surabaya.sch.id/">HOME</a>
+				</li>
+				<li class="level1"><a href="https://www.sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li class="level1"><a href="https://www.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li class="level1"><a href="https://www.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li class="level2"><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li class="level1"><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://www.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="https://www.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="level1"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="https://www.sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li ><a href="https://www.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="https://www.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='https://www.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="current"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="https://www.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="https://www.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li> 
+								<li ><a href="https://www.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li ><a href="#">GALERI</a>
+					<ul>
+						<li><a href="https://www.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="https://www.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="https://www.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content">
+	<div class="widget-title">
+		<h4>PENDIDIK DAN TENAGA KEPENDIDIKAN SMA NEGERI 3 SURABAYA <i class="fa fa-user"></i></h4>
+	</div>
+	<div class="widget">
+				<table class="table">
+			<thead>
+				<th>NO</th>
+				<th>NIK</th>
+				<th>NIP</th>
+				<th>NUPTK</th>
+				<th>NAMA</th>
+				<th>JENIS KELAMIN</th>
+				<th>&nbsp;</th>
+			</thead>
+			<tbody>
+								<tr>
+					<td>1</td>
+					<td>3578</td>
+					<td>197103152008012013</td>
+					<td>3647749650300012</td>
+					<td>A. Budiarni Kusumastutik, S. Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#282"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="282" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197103152008012013					        			<br>
+					        			<b>NUPTK</b> : 3647749650300012					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : A. Budiarni Kusumastutik, S. Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Tuwowo Rejo VII / 11 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : agnestutik71@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 15 Maret 1971					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Matematika					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>2</td>
+					<td>3578</td>
+					<td>197405312008012008</td>
+					<td>1863752654300012</td>
+					<td>Anik Sulistyawati, S.Pd, M.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#283"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="283" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197405312008012008					        			<br>
+					        			<b>NUPTK</b> : 1863752654300012					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Anik Sulistyawati, S.Pd, M.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Bulak Banteng Baru Gg. Melati 121 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : Aniksulistyawati@rocketmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 31 Mei 1974					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Bahasa Indonesia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>3</td>
+					<td>3578</td>
+					<td>197806152014122001</td>
+					<td>4947756657300022</td>
+					<td>Anik Winarni, S.S</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#284"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="284" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197806152014122001					        			<br>
+					        			<b>NUPTK</b> : 4947756657300022					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Anik Winarni, S.S					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Kapas Baru 11/ 15 - 17					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : anik.winarni15@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 15 Juni 1978					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Sastra Inggris					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>4</td>
+					<td>3578</td>
+					<td>198310302019031003</td>
+					<td>5362761662200003</td>
+					<td>Aries Afandri, S.Pd</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#285"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="285" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 198310302019031003					        			<br>
+					        			<b>NUPTK</b> : 5362761662200003					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Aries Afandri, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : KEMAYORAN BARU 2/72					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : ariesafandrie@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 30 Oktober 1983					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Seni Musik					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>5</td>
+					<td>3578</td>
+					<td>196607261998031005</td>
+					<td>8058744647200003</td>
+					<td>Drs. Dhofir</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#288"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="288" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196607261998031005					        			<br>
+					        			<b>NUPTK</b> : 8058744647200003					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Drs. Dhofir					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Jl. Kedinding Tengah VIII A / 39 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : dhofirabang@yahoo.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Gresik, , 26 Juli 1966					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : PPKn					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>6</td>
+					<td>3578</td>
+					<td>196709101992011002</td>
+					<td>7242745649200013</td>
+					<td>Djumari, S.Pd, MM</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#289"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="289" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196709101992011002					        			<br>
+					        			<b>NUPTK</b> : 7242745649200013					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Djumari, S.Pd, MM					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Jl. Wiguna I / 8 Gunung Anyar Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : djumari_sman3sby@yahoo.co.id					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 10 September 1967					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Biologi					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>7</td>
+					<td>3578</td>
+					<td>196707241994121002</td>
+					<td>5056745647200013</td>
+					<td>Drs. Dudung Suwardi</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#290"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="290" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196707241994121002					        			<br>
+					        			<b>NUPTK</b> : 5056745647200013					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Drs. Dudung Suwardi					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Libra Timur Kav. 12 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : dudungfisika@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 24 Juli 1967					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Fisika					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>8</td>
+					<td>3578</td>
+					<td>196508022008012005</td>
+					<td>4134743644300023</td>
+					<td>Dwi Nurcholies, S.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#291"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="291" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196508022008012005					        			<br>
+					        			<b>NUPTK</b> : 4134743644300023					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Dwi Nurcholies, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Tuwowo Rejo VI / 27 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : dwinurcholies92@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 02 Agustus 1965					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Bahasa Indonesia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>9</td>
+					<td>3578</td>
+					<td>196902072008012015</td>
+					<td>7539747648300012</td>
+					<td>Dra. Eka Dwi Wahjuningsih</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#292"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="292" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196902072008012015					        			<br>
+					        			<b>NUPTK</b> : 7539747648300012					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Dra. Eka Dwi Wahjuningsih					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Hery Kasiyanto No. 26					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : eka.sman3sby@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 07 Februari 1969					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Geografi					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>10</td>
+					<td>3578</td>
+					<td>196708202007011021</td>
+					<td>6152745649200013</td>
+					<td>Theo Gunawan Wahana, S.S., M.Pd</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#294"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="294" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196708202007011021					        			<br>
+					        			<b>NUPTK</b> : 6152745649200013					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Theo Gunawan Wahana, S.S., M.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Kalijudan Taruna 3A / 22 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : theo_louislibrary@yahoo.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Cepu, , 20 Agustus 1967					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Sastra Inggris					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>11</td>
+					<td>3517</td>
+					<td>197201122005011010</td>
+					<td>1444750650200002</td>
+					<td>Hadi Sunyoto, S.Sos.</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#295"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="295" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3517					        			<br>
+					        			<b>NIP</b> : 197201122005011010					        			<br>
+					        			<b>NUPTK</b> : 1444750650200002					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Hadi Sunyoto, S.Sos.					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Pesona Alam Gunung Anyar III Blok P.19/39					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : hadisunyoto.3@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Malang, , 12 Januari 1972					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Sosiologi					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>12</td>
+					<td>3515</td>
+					<td>196905182005011005</td>
+					<td>2850747649200012</td>
+					<td>Imam Hanafi, S.Pd</td>
+					<td>Laki-laki</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#296"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="296" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3515					        			<br>
+					        			<b>NIP</b> : 196905182005011005					        			<br>
+					        			<b>NUPTK</b> : 2850747649200012					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Imam Hanafi, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Laki-laki					        			<br>
+					        			<b>Alamat</b> : Wisma Sarinadi Blok I /5 Jl. Bulutangkis Sidoarjo					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : hanafiimam75@yahoo.co.id					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Jember, , 18 Mei 1969					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Bahasa Inggris					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>13</td>
+					<td>3578</td>
+					<td>197405312008012007</td>
+					<td>6863752653300002</td>
+					<td>Maria Netyawati, S.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#298"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="298" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197405312008012007					        			<br>
+					        			<b>NUPTK</b> : 6863752653300002					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Maria Netyawati, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : JL. KUWUKAN LAPANGAN IV NO. 8					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : merri3105@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : SURABAYA, , 31 Mei 1974					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Fisika					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>14</td>
+					<td>3578</td>
+					<td>196911022008012011</td>
+					<td>8434747649300063</td>
+					<td>Nurul Hidayati, S.Pd, MM</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#303"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="303" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196911022008012011					        			<br>
+					        			<b>NUPTK</b> : 8434747649300063					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Nurul Hidayati, S.Pd, MM					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Bulak Setro III / 69 Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : hidayatinurul1969@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 02 Nopember 1969					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Penjas					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>15</td>
+					<td>3578</td>
+					<td>197109202005012004</td>
+					<td>8252749651300013</td>
+					<td>Restu Mulatsih, S.Pd, M.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#304"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="304" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197109202005012004					        			<br>
+					        			<b>NUPTK</b> : 8252749651300013					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Restu Mulatsih, S.Pd, M.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Krukah Timur 23 B Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : restumulatsih@yahoo.co.id					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Madiun, , 20 September 1971					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Sosiologi					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>16</td>
+					<td>3578</td>
+					<td>198007172014122006</td>
+					<td>3049758659300023</td>
+					<td>Retno Utami, S.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#306"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="306" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 198007172014122006					        			<br>
+					        			<b>NUPTK</b> : 3049758659300023					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Retno Utami, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Balongsari 5k/8					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : enokmat@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : surabaya, , 17 Juli 1980					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Matematika					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>17</td>
+					<td>3578</td>
+					<td>196806141991012001</td>
+					<td>6946746647300002</td>
+					<td>Riyanti, S.Pd Fis</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#307"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="307" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196806141991012001					        			<br>
+					        			<b>NUPTK</b> : 6946746647300002					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Riyanti, S.Pd Fis					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Genting VI/94 A Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : riyantiridwan14@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 14 Juni 1968					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Fisika					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>18</td>
+					<td>3578</td>
+					<td>196609162007012014</td>
+					<td>7248744646300013</td>
+					<td>Siti Noerdjanah, S.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#309"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="309" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196609162007012014					        			<br>
+					        			<b>NUPTK</b> : 7248744646300013					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Siti Noerdjanah, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Dukuh Bulak Banteng Patriot VI/15					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : noerdjanahcharity@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 16 September 1966					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Bahasa Inggris					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>19</td>
+					<td>3578</td>
+					<td>196808242005012010</td>
+					<td>9156746649300023</td>
+					<td>Sri Wiludjeng, S.Pd. M.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#310"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="310" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 196808242005012010					        			<br>
+					        			<b>NUPTK</b> : 9156746649300023					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Sri Wiludjeng, S.Pd. M.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Gresikan II / 18 B Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : buwiludjeng68@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 24 Agustus 1968					        			<br>
+					        			<b>Pendidikan terakhir</b> : S2					        			<br>
+					        			<b>Jurusan</b> : Kimia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+								<tr>
+					<td>20</td>
+					<td>3578</td>
+					<td>197005032008012014</td>
+					<td>7835748650300032</td>
+					<td>Sri Wulan, S.Pd</td>
+					<td>Perempuan</td>
+					<td>
+						<a href="" data-toggle="modal" data-target="#311"><i class="icon-zoom-in"></i></a>
+					</td>
+				</tr>
+				<div class="modal fade" id="311" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <h3 style="padding-left:10px;font-weight:bold;">BIODATA PENDIDIK DAN TENAGA KEPENDIDIKAN</h3>
+				      </div>
+				      <div class="modal-body">
+			      			<ul class="post-list">
+					        	<li class="clearfix">
+					        		<div class="left-columns">
+						      							                        <img style="margin-top:3px;" src="https://www.sman3surabaya.sch.id/assets/user.jpg">
+				                        						      		</div>
+						      		<div class="right-columns">
+					        		<p>
+					        			<b>NIK</b> : 3578					        			<br>
+					        			<b>NIP</b> : 197005032008012014					        			<br>
+					        			<b>NUPTK</b> : 7835748650300032					        			<br>
+					        			<b>Status Kepegawaian</b> : PNS					        			<br>
+					        			<b>Jenis PTK</b> : Guru Mata Pelajaran					        			<br>
+					        			<b>Nama</b> : Sri Wulan, S.Pd					        			<br>
+					        			<b>Jenis kelamin</b> : Perempuan					        			<br>
+					        			<b>Alamat</b> : Jl. Gersikan II / 18 B Surabaya					        			<br>
+					        			<b>Telp</b> : ------					        			<br>
+					        			<b>Email</b> : sriwulanmei03@gmail.com					        			<br>
+					        			<b>Tempat, tanggal lahir</b> : Surabaya, , 03 Mei 1970					        			<br>
+					        			<b>Pendidikan terakhir</b> : S1					        			<br>
+					        			<b>Jurusan</b> : Bahasa Indonesia					        		</p>
+					        		</div>
+					        	</li>
+					        </ul>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">X</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+							</tbody>
+		</table>
+
+				<div class="pagination">
+			<ul class="clearfix" style="float:left">
+				<li class="active"><a>1</a></li><li><a href="https://www.sman3surabaya.sch.id/home/ptk/20" data-ci-pagination-page="2">2</a></li><li><a href="https://www.sman3surabaya.sch.id/home/ptk/40" data-ci-pagination-page="3">3</a></li><li><a href="https://www.sman3surabaya.sch.id/home/ptk/20" data-ci-pagination-page="2" rel="next">Next</a></li>			</ul>
+		</div>
+					</div>
+</section>
+<script src="https://www.sman3surabaya.sch.id/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="https://www.sman3surabaya.sch.id/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Sambutan Kepala Sekolah</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					</div>
+					 <p>Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya ...</p>
+					 <p><a class="samkep" href="https://www.sman3surabaya.sch.id/home/sambutan_kepala_sekolah">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>Jajak Pendapat</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="https://www.sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="https://www.sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="https://www.sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 <div class="widget-title">
+		  <h4><span>Banner </span> <i class="fa fa-heart"></i></h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="https://www.sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>Kategori</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://www.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Arsip 2025</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://www.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Tautan</span> <i class="fa fa-list"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		</ul>
+	</div>
+	
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>SMA NEGERI 3 SURABAYA</h4>
+			    <p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 <br/><br/>
+				<i class="fa fa-phone"></i>  031-3812356<br/>
+				<i class="fa fa-envelope"></i>  info@sman3surabaya.sch.id			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>Kategori</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="https://www.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Arsip 2025</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="https://www.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="https://www.sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Tautan</h4>
+	        </div>
+		    	        <div class="list">
+		        <ul class="ul-list clearfix">
+		     	<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		        </ul>
+	        </div>
+	        		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,459 @@
+a:2:{s:6:"expire";i:1743649614;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="http://mail.sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="http://mail.sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="http://mail.sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="http://mail.sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="http://mail.sman3surabaya.sch.id/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="http://mail.sman3surabaya.sch.id/"><img src="http://mail.sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@sman3sby" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="sman3sby" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://SMAN 3 Surabaya" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121				    </div>
+				    <div class="sch incenter">
+				    031-3812356				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li >
+				    <a href="http://mail.sman3surabaya.sch.id/">HOME</a>
+				</li>
+				<li class="level1"><a href="http://mail.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li class="level1"><a href="http://mail.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="level1"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li class="level2"><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li class="level1"><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="http://mail.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="http://mail.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="current"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://mail.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="http://mail.sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="http://mail.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="http://mail.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='http://mail.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li ><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="http://mail.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="http://mail.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li> 
+								<li ><a href="http://mail.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="current"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="http://mail.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://mail.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content" class="home">
+	<div class="widget-title">
+		<h4>GALLERY PHOTO <i class="fa fa-camera"></i></h4>
+		<span class="views-all"><a href="http://mail.sman3surabaya.sch.id/home/album">Indeks</a></span>
+	</div>
+	<div class="widget">
+				<h5 style="font-size:14px;font-weight:bold;margin:10px 0 10px 4px;">2018 - MASA PENGENALAN LINGKUNGAN SEKOLAH (MPLS)</h5>
+		<ul id="gallery-photo" class="clearfix">
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/7ac1d3bd010dde429215bec5b70a692c.jpg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/7ac1d3bd010dde429215bec5b70a692c.jpg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/3cb8fdd0112c3c13b86f5f272ce282e0.jpg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/3cb8fdd0112c3c13b86f5f272ce282e0.jpg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/5c780904f9802e5b08d2e4bcd59dd599.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/5c780904f9802e5b08d2e4bcd59dd599.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/22f9d18a8ad50bec09b06e9adc393f73.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/22f9d18a8ad50bec09b06e9adc393f73.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/501f7139e32fa09ed8acb59da7ef346d.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/501f7139e32fa09ed8acb59da7ef346d.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/1b4a6c0bf0adead613a4a36699e791a8.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/1b4a6c0bf0adead613a4a36699e791a8.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/d481d098b93a0765522372bea244a951.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/d481d098b93a0765522372bea244a951.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/e9ae97d8859a5ea1080d1f847b47abb8.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/e9ae97d8859a5ea1080d1f847b47abb8.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/0628cae22388d4a658a3b9885ae18ac0.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/0628cae22388d4a658a3b9885ae18ac0.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/e38b78a30fb5d133b6a756e0397b3a83.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/e38b78a30fb5d133b6a756e0397b3a83.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/6825c5e77c7b61db010209851fde13db.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/6825c5e77c7b61db010209851fde13db.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/4ded67cbe428a4ac90a11b92b850700c.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/4ded67cbe428a4ac90a11b92b850700c.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/1b6de4e5d2cacb5f588ab72eef16083b.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/1b6de4e5d2cacb5f588ab72eef16083b.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/dd872f8923d3786f121dfa234e076161.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/dd872f8923d3786f121dfa234e076161.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/68e9b69c19292b9886cc929005b13192.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/68e9b69c19292b9886cc929005b13192.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/06cf78c86726c5c6e32bdca692cb2174.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/06cf78c86726c5c6e32bdca692cb2174.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/19f59ffef0061b2668c650a65e863612.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/19f59ffef0061b2668c650a65e863612.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/3e2490d4eb60d5924c6bd237966d4795.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/3e2490d4eb60d5924c6bd237966d4795.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/a77963c438345a5fa6904c0ef98707d3.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/a77963c438345a5fa6904c0ef98707d3.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/d39921a04ceadb7f36c017734747f023.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/d39921a04ceadb7f36c017734747f023.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/077e3cc43c73094aa1d9ffe04ee1734e.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/077e3cc43c73094aa1d9ffe04ee1734e.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/8a9329169ac96b71a36414942aba3dbe.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/8a9329169ac96b71a36414942aba3dbe.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/94e837e878f5101e3039ed584ccf3e20.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/94e837e878f5101e3039ed584ccf3e20.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/82c7c687cd233dca915028668a3f4b9e.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/82c7c687cd233dca915028668a3f4b9e.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/909ca36c6ac6a2d4e0e8ef96fc0c3362.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/909ca36c6ac6a2d4e0e8ef96fc0c3362.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/c7c33a07ff62a99097db8111d35377b6.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/c7c33a07ff62a99097db8111d35377b6.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/5925587ca13310367311fbecb5db7805.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/5925587ca13310367311fbecb5db7805.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/9e9f7a973620c4a9d3c64669dc8e379e.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/9e9f7a973620c4a9d3c64669dc8e379e.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/91015f393acdc977033e815e82f7e816.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/91015f393acdc977033e815e82f7e816.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/2ae24572331070b1a56832619248489a.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/2ae24572331070b1a56832619248489a.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/4e15a88b1817685f3bac9b453d0eec7b.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/4e15a88b1817685f3bac9b453d0eec7b.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/4da1884c8846bfa38088793caa20b929.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/4da1884c8846bfa38088793caa20b929.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/983d025b7a66e363d3a3e7904118491a.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/983d025b7a66e363d3a3e7904118491a.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/d324156a8d415cf6067f88d2c29944a1.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/d324156a8d415cf6067f88d2c29944a1.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/a040fa652eabb96664bd7e3e3cef49c7.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/a040fa652eabb96664bd7e3e3cef49c7.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/04d483e2c7cd2b2246c2cd6f20d1b389.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/04d483e2c7cd2b2246c2cd6f20d1b389.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/330c34537d90b52d5bdb927a71435fae.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/330c34537d90b52d5bdb927a71435fae.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/86c2f0ec3d6ccc15aa3ed376c555322d.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/86c2f0ec3d6ccc15aa3ed376c555322d.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/e8f3aac7fba9ef1e1b7cc85bbf3b88a5.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/e8f3aac7fba9ef1e1b7cc85bbf3b88a5.jpeg" alt=""></a>
+			</li>
+						<li>
+				<a href="http://mail.sman3surabaya.sch.id/assets/gallery/e5ff0b58ff83c3e3b08574f8153d07cb.jpeg" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img src="http://mail.sman3surabaya.sch.id/assets/gallery/thumb/e5ff0b58ff83c3e3b08574f8153d07cb.jpeg" alt=""></a>
+			</li>
+					</ul>
+
+			</div>
+</section>
+<script src="http://mail.sman3surabaya.sch.id/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="http://mail.sman3surabaya.sch.id/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Sambutan Kepala Sekolah</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					    <img width="100%" title="Sunawan Hadi Santoso, S.Pd.,M.Pd" src="http://mail.sman3surabaya.sch.id/assets/ptk/4eadd85f10ae4c21ad4dc086e6464ec7.jpg" alt="image" style="margin-top:0;"/>
+					    					</div>
+					 <p>Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya ...</p>
+					 <p><a class="samkep" href="http://mail.sman3surabaya.sch.id/home/sambutan_kepala_sekolah">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>Jajak Pendapat</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="http://mail.sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="http://mail.sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="http://mail.sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 <div class="widget-title">
+		  <h4><span>Banner </span> <i class="fa fa-heart"></i></h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="http://mail.sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="http://mail.sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="http://mail.sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>Kategori</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://mail.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="http://mail.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Arsip 2025</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://mail.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="http://mail.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Tautan</span> <i class="fa fa-list"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg" target="_blank" title="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/humas_smagabaya/?hl=id" target="_blank" title="https://www.instagram.com/humas_smagabaya/?hl=id">Instagram SMAGA</a></li>		</ul>
+	</div>
+	
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>SMA NEGERI 3 SURABAYA</h4>
+			    <p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 <br/><br/>
+				<i class="fa fa-phone"></i>  031-3812356<br/>
+				<i class="fa fa-envelope"></i>  info@sman3surabaya.sch.id			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>Kategori</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="http://mail.sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="http://mail.sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Arsip 2025</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="http://mail.sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="http://mail.sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Tautan</h4>
+	        </div>
+		    	        <div class="list">
+		        <ul class="ul-list clearfix">
+		     	<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@humassman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg" target="_blank" title="https://www.youtube.com/channel/UCCM66HGCqZ_QtyxXGKUusyg">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/humas_smagabaya/?hl=id" target="_blank" title="https://www.instagram.com/humas_smagabaya/?hl=id">Instagram SMAGA</a></li>		        </ul>
+	        </div>
+	        		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>

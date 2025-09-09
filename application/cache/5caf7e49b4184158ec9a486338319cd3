@@ -1,0 +1,952 @@
+a:2:{s:6:"expire";i:1756258518;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<link rel="shortcut icon" href="http://www.sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="http://www.sman3surabaya.sch.id/views/themes/classic/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.sman3surabaya.sch.id/views/themes/classic/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.sman3surabaya.sch.id/views/themes/classic/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.sman3surabaya.sch.id/views/themes/classic/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.sman3surabaya.sch.id/views/themes/classic/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<script src="http://www.sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/js/init.js" type="text/javascript"></script>
+	<script src="http://www.sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="http://www.sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="http://www.sman3surabaya.sch.id/home/peta_situs">PETA SITUS</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+			<img src="http://www.sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li ><a href="http://www.sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="http://www.sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li ><a href="http://www.sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="http://www.sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='http://www.sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li ><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://www.sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="http://www.sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="http://www.sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="http://www.sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://www.sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="http://www.sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="http://www.sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="http://www.sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="http://www.sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="current"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="http://www.sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="http://www.sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://www.sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+	<section id="sub-bar" class="container">
+		<ul id="news-ticker">
+						<li>Pendidikan adalah senjata paling mematikan di dunia, karena dengan itu Anda dapat mengubah dunia. <strong style="font-style:italic;color:yellow;">Nelson Mandela</strong></li>
+						<li>Jika anda mendidik seorang pria, maka seorang pria akan terdidik. Tapi jika anda mendidik seorang wanita, sebuah generasi akan terdidik. <strong style="font-style:italic;color:yellow;">Brigham Young</strong></li>
+						<li>Hiduplah seolah engkau mati besok. Belajarlah seolah engkau hidup selamanya. <strong style="font-style:italic;color:yellow;">Mahatma Gandhi</strong></li>
+						<li>Adalah baik untuk merayakan kesuksesan, tapi hal yang lebih penting adalah untuk mengambil pelajaran dari kegagalan. <strong style="font-style:italic;color:yellow;">Bill Gates</strong></li>
+						<li>Orang-orang yang berhenti belajar akan menjadi pemilik masa lalu. Orang-orang yang masih terus belajar, akan menjadi pemilik masa depan. <strong style="font-style:italic;color:yellow;">Mario Teguh</strong></li>
+						<li>Keberhasilan adalah kemampuan untuk melewati dan mengatasi dari satu kegagalan ke kegagalan berikutnya tanpa kehilangan semangat.. <strong style="font-style:italic;color:yellow;">Winston Chuchill</strong></li>
+						<li>Apabila di dalam diri seseorang masih ada rasa malu dan takut untuk berbuat suatu kebaikan, maka jaminan bagi orang tersebut adalah tidak akan bertemunya ia dengan kemajuan selangkah pun.. <strong style="font-style:italic;color:yellow;">Presiden RI-1 : Soekarno</strong></li>
+						<li>Kita mengajarkan disiplin untuk giat, untuk bekerja, untuk kebaikan, bukan agar anak-anak menjadi loyo, pasif, atau penurut.. <strong style="font-style:italic;color:yellow;">Maria Montessori</strong></li>
+						<li>Jadilah orang yang dermawan tapi jangan menjadi pemboros. Jadilah orang yang hidup sederhana, tetapi jangan menjadi orang yang kikir.”. <strong style="font-style:italic;color:yellow;">Ali bin Abi Thalib</strong></li>
+						<li>Maafkanlah diri sendiri yang tengah gagal meraih mimpi, percayalah akan ada banyak mimpi yang lebih besar dan lebih baik dari mimpi yang tidak pernah kamu rancang sebelumnya.. <strong style="font-style:italic;color:yellow;">No Name</strong></li>
+						<li>Pendidikan adalah kunci untuk membuka pintu emas kebebasan.. <strong style="font-style:italic;color:yellow;">George Washington Carver</strong></li>
+						<li>Saat kamu terjatuh, tersenyumlah. Karena orang yang pernah jatuh adalah orang yang sedang berjalan menuju keberhasilan. <strong style="font-style:italic;color:yellow;">masda</strong></li>
+						<li>"Dengan budi pekerti, tiap-tiap manusia berdiri sebagai manusia merdeka (berpribadi), yang dapat memerintah atau menguasai diri sendiri. Inilah manusia beradab dan itulah maksud dan tujuan pendidikan dalam garis besarnya.". <strong style="font-style:italic;color:yellow;">Ki Hajar Dewantara</strong></li>
+					</ul>
+	</section>
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content">
+	<div class="widget-title">
+		<h4><i class="icon-picture"></i> GALLERY PHOTO</h4>
+		<span class="views-all"><a href="http://www.sman3surabaya.sch.id/home/album">Indeks</a></span>
+	</div>
+	<div class="widget">
+				<h5 style="font-size:14px;font-weight:bold;margin:10px 0 10px 4px;">WISUDA  TAHUN PELAJARAN 2023</h5>
+		<ul id="gallery-photo" class="clearfix">
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c45a8cccf8b2c0a9a402f705777f1a67.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c45a8cccf8b2c0a9a402f705777f1a67.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/89ea15c3bfedd786804da1b7fd047946.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/89ea15c3bfedd786804da1b7fd047946.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dbc89f0d04366429d19b5ab086224bf1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dbc89f0d04366429d19b5ab086224bf1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c684c14ebb8bd407148f1947177d6eb9.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c684c14ebb8bd407148f1947177d6eb9.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/8c02b979639c29265ae270ceec24af81.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8c02b979639c29265ae270ceec24af81.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/72017c266e88c55f893ff56679d120f2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/72017c266e88c55f893ff56679d120f2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/05bf6f3300cd51c4fbcf7d994e6eaa99.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/05bf6f3300cd51c4fbcf7d994e6eaa99.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/88c592b24d92fa64019a5de168d5039d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/88c592b24d92fa64019a5de168d5039d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d6501ac2facd0b37c5fd3374d9110f65.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d6501ac2facd0b37c5fd3374d9110f65.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/927be444eb35d2b6163d003ce188888a.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/927be444eb35d2b6163d003ce188888a.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/da9826544b3af28da89e488f0c702fce.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/da9826544b3af28da89e488f0c702fce.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/cbc9fbe03beaf34440881d6d94c46bf7.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/cbc9fbe03beaf34440881d6d94c46bf7.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f83f89ade83a3a74a87253608afd8681.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f83f89ade83a3a74a87253608afd8681.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/0d9089be837c691d5ba920ed6b54c0ab.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/0d9089be837c691d5ba920ed6b54c0ab.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/24729aded3f009638ed6cc549bace9a1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/24729aded3f009638ed6cc549bace9a1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c941fa9f7aec223b255f8da3bd4c748c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c941fa9f7aec223b255f8da3bd4c748c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/93747081155911afd841fcc09f2a7f64.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/93747081155911afd841fcc09f2a7f64.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c3a9ee956bdf33f4b4dee1ea0267ec48.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c3a9ee956bdf33f4b4dee1ea0267ec48.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3699037065d183c122af297573141b91.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3699037065d183c122af297573141b91.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/12aada85d86a12767d41d913e64de675.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/12aada85d86a12767d41d913e64de675.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9db1ef03fde0793cb632b089bc886905.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9db1ef03fde0793cb632b089bc886905.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/33ffd0c9deab74a63d39404aac383516.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/33ffd0c9deab74a63d39404aac383516.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/340eeaef3454b4574f74e906b52b6edb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/340eeaef3454b4574f74e906b52b6edb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b826135696a9563fea0576a6865f1741.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b826135696a9563fea0576a6865f1741.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/01857722fb833f3141ecf332398e7dfc.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/01857722fb833f3141ecf332398e7dfc.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4960a289a39c4ce54996941667b529ca.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4960a289a39c4ce54996941667b529ca.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3ec7e20d989d86cecdd583a2772c4892.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3ec7e20d989d86cecdd583a2772c4892.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/8aeb33bcfa0cb7fee032b3c9e1cbd551.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8aeb33bcfa0cb7fee032b3c9e1cbd551.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c71422dfc268067a84b32f789aff8039.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c71422dfc268067a84b32f789aff8039.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b1fbff12bb2a99f22488c6975abcfa0c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b1fbff12bb2a99f22488c6975abcfa0c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/31cf0367072bf9709cedfb946ddb5d11.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/31cf0367072bf9709cedfb946ddb5d11.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/eb9adf061cbac0be09c91aa5e13378e3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/eb9adf061cbac0be09c91aa5e13378e3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/afb6a2b7b8ad9bc334699362e329eab3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/afb6a2b7b8ad9bc334699362e329eab3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/087dd26bec602233e631fc0bd078d6cb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/087dd26bec602233e631fc0bd078d6cb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/eaae4a1dee379346f3da1b1fafb5dec8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/eaae4a1dee379346f3da1b1fafb5dec8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/fe4ba253aec893f2e375160694afdf68.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/fe4ba253aec893f2e375160694afdf68.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/793a615a7c63d5fde434ab4bd90fc7d1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/793a615a7c63d5fde434ab4bd90fc7d1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2163b2c45620b47bc57735cf5dbc7aac.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2163b2c45620b47bc57735cf5dbc7aac.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/cc97920f1be707c3b321d2c933c52f2d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/cc97920f1be707c3b321d2c933c52f2d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9dc15f30a4dc3e860cd8aeb7c890e07d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9dc15f30a4dc3e860cd8aeb7c890e07d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/7b4805eff2125aec80f851019cdd7a41.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/7b4805eff2125aec80f851019cdd7a41.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d46778849b661029a27264dcf7afb3db.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d46778849b661029a27264dcf7afb3db.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/06e494fc2b9b75e329309a609ed8e27b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/06e494fc2b9b75e329309a609ed8e27b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3adb7f0c2516530713e2f76114dad928.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3adb7f0c2516530713e2f76114dad928.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dd8a72f78cf4acd02146f7e2f58c3818.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dd8a72f78cf4acd02146f7e2f58c3818.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5ca3d42f2e14ce113f4e20096de558be.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5ca3d42f2e14ce113f4e20096de558be.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/7219a37536cd3795bdc6c28e7bd57cd9.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/7219a37536cd3795bdc6c28e7bd57cd9.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f8bfaeab54a7904e36135c6417fc5b3c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f8bfaeab54a7904e36135c6417fc5b3c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e713d6b487d56a7605e14ac45ee324de.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e713d6b487d56a7605e14ac45ee324de.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/79d8312e1b93d884a2cc8ecea7856b73.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/79d8312e1b93d884a2cc8ecea7856b73.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/adbf5d51629e1fbd1047ddb82f9df136.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/adbf5d51629e1fbd1047ddb82f9df136.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c35a67736ff7584d44c06b81e1e4d07c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c35a67736ff7584d44c06b81e1e4d07c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/88e30a6bc3ba199792975d5d75bea8af.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/88e30a6bc3ba199792975d5d75bea8af.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/42afe849b084e11010c89664b26fa593.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/42afe849b084e11010c89664b26fa593.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6cd8e3e5dee7081e3da3a67fc1dbe7bb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6cd8e3e5dee7081e3da3a67fc1dbe7bb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f36314be869bb0d732c961907c2eb227.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f36314be869bb0d732c961907c2eb227.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ccf816e59e54b46c422eee21cae69054.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ccf816e59e54b46c422eee21cae69054.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/af232820b7c2f459491d188dbdf2ae5c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/af232820b7c2f459491d188dbdf2ae5c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/1c6189a684e1206b7a477b88bdc42980.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/1c6189a684e1206b7a477b88bdc42980.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/85085a6cea6020a881f8b9735041ae17.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/85085a6cea6020a881f8b9735041ae17.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/cd0927d0d20253a9067f436e3629df99.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/cd0927d0d20253a9067f436e3629df99.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e0d49d33d131ec8cbb153c8a9964b77e.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e0d49d33d131ec8cbb153c8a9964b77e.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4e2ee4f4fba8ceeb293cca567bfdde80.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4e2ee4f4fba8ceeb293cca567bfdde80.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/cca0f956731d9133bcd9dd6766ccf5f7.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/cca0f956731d9133bcd9dd6766ccf5f7.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e1b53a82b7d1abaad9abe4303a418e81.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e1b53a82b7d1abaad9abe4303a418e81.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/51047a91115a5abbda603c5040eae90d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/51047a91115a5abbda603c5040eae90d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c7925cd5f234c6bf08df74d697973d45.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c7925cd5f234c6bf08df74d697973d45.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d476d12443c542272fa8dd57e1a1aca7.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d476d12443c542272fa8dd57e1a1aca7.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4b05f3e9ce2bebeb7b722863c2cda418.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4b05f3e9ce2bebeb7b722863c2cda418.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/61701994d3110e6761d79eb340106236.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/61701994d3110e6761d79eb340106236.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ab90558f641ada7dd75d96ac3fc06ea4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ab90558f641ada7dd75d96ac3fc06ea4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2744f7b76785426d3040aa393fe488b9.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2744f7b76785426d3040aa393fe488b9.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/75faa3b11400f83ad4ab811e3a50e4a3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/75faa3b11400f83ad4ab811e3a50e4a3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/8f55cce2f0ad3af5f64a97d52e6f6706.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8f55cce2f0ad3af5f64a97d52e6f6706.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6d18cefa1e5b4bfc89fd9ca21a12e41c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6d18cefa1e5b4bfc89fd9ca21a12e41c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/75199572c57e466eca82bb154141d108.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/75199572c57e466eca82bb154141d108.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/54c9522d491672b1eb8ea793d33c2da4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/54c9522d491672b1eb8ea793d33c2da4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b66e5bfac2482a923f3113a97a511011.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b66e5bfac2482a923f3113a97a511011.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/01cd3735037b90fa778affdcc47ed41c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/01cd3735037b90fa778affdcc47ed41c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/870b438cc4e0247aa852d1bf3e8750c1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/870b438cc4e0247aa852d1bf3e8750c1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/a6c0acadededa601696c1dbccc666a0f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/a6c0acadededa601696c1dbccc666a0f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/0fc10cf6a95e9e3a53bdc2612eb16b62.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/0fc10cf6a95e9e3a53bdc2612eb16b62.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/578dca64469b00a3955c88eace7070b3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/578dca64469b00a3955c88eace7070b3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/64aab71aff7c3e580237b3044968f08e.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/64aab71aff7c3e580237b3044968f08e.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ea1b67fe577e2b907b25ff4d8737f984.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ea1b67fe577e2b907b25ff4d8737f984.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f60f106cde79c737a169fef1494e1cea.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f60f106cde79c737a169fef1494e1cea.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ced4a238c2b8e916cee83960408e52ed.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ced4a238c2b8e916cee83960408e52ed.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b2d0a4942a769a9efedacb587f155aa8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b2d0a4942a769a9efedacb587f155aa8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c9f581e75ad52c41a9de6673b4f38b5f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c9f581e75ad52c41a9de6673b4f38b5f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/fb3099b4a3c7543aa1a3321eee00e27b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/fb3099b4a3c7543aa1a3321eee00e27b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6bc40bb119586ab1a380af255aeb55a1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6bc40bb119586ab1a380af255aeb55a1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/aef73174bb821d5c200513708fc928da.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/aef73174bb821d5c200513708fc928da.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e88df7443bfb02b2e17a9b239136e385.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e88df7443bfb02b2e17a9b239136e385.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f67b1d35d22528355e90f00938029912.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f67b1d35d22528355e90f00938029912.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/96bf0dcf215d01541b23d824b2430ac0.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/96bf0dcf215d01541b23d824b2430ac0.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/fbdcbc2b34c27472c4b1ef971d583be5.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/fbdcbc2b34c27472c4b1ef971d583be5.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c21ba37f389a2fdd17e87d8a31c84ce8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c21ba37f389a2fdd17e87d8a31c84ce8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/33808afcb847f516dd273a376a0aa121.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/33808afcb847f516dd273a376a0aa121.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d87eb372bfe942681466cc7dc27ae5a8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d87eb372bfe942681466cc7dc27ae5a8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f9744d436653d29c7e345b6324ce60a2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f9744d436653d29c7e345b6324ce60a2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c67049b2470701d2f4847512a83922b4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c67049b2470701d2f4847512a83922b4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c3ff7346c49798e30e3422b27a466beb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c3ff7346c49798e30e3422b27a466beb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/09634fe75df310662ee4c339b8bb0f47.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/09634fe75df310662ee4c339b8bb0f47.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/60ababda1273644823990568e4888608.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/60ababda1273644823990568e4888608.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/484d8961025ef425c7e1400ac214e8f5.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/484d8961025ef425c7e1400ac214e8f5.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/cf9b0b724256f57ba50fd04ec588966c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/cf9b0b724256f57ba50fd04ec588966c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4d29e88b67187481c666cf69e2cc7368.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4d29e88b67187481c666cf69e2cc7368.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e5a9d4708b0fedf318980f99df0e50b0.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e5a9d4708b0fedf318980f99df0e50b0.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/257d47bfe6005c89dcfa64e8519c31cb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/257d47bfe6005c89dcfa64e8519c31cb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4cbf2865b80c84fc8a520066c5fca7be.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4cbf2865b80c84fc8a520066c5fca7be.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5155417da762bf4c32c0282aaec175ba.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5155417da762bf4c32c0282aaec175ba.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c5b8d49e70335d6ef30ad2d08f95aeba.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c5b8d49e70335d6ef30ad2d08f95aeba.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e8760e366a48c1a23b3c56bbc2d53c95.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e8760e366a48c1a23b3c56bbc2d53c95.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d67c9e5abe8ddad2b216370112f7696d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d67c9e5abe8ddad2b216370112f7696d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/47b94cec8771cd7d954e2892ba6a0ed8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/47b94cec8771cd7d954e2892ba6a0ed8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/426ec3940c4fb8a1e32c40708aab81d2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/426ec3940c4fb8a1e32c40708aab81d2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2f58183e3f077faed1c544fe69d8ea06.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2f58183e3f077faed1c544fe69d8ea06.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2216f770ca37835505f252a9352ca327.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2216f770ca37835505f252a9352ca327.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/94b76cad02820e2a7079a6e393d14530.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/94b76cad02820e2a7079a6e393d14530.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/67c3b5d41ea00c7012510f64b19e6081.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/67c3b5d41ea00c7012510f64b19e6081.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5a742580f57b7b5045690a1d87fa2ed3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5a742580f57b7b5045690a1d87fa2ed3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c52c98a2c55349381a49590da24aa3f8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c52c98a2c55349381a49590da24aa3f8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3d6f29994ac5d01a7c374bb6c51300dc.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3d6f29994ac5d01a7c374bb6c51300dc.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/afe4d6c4cb9327f7ed80ff6bd78eca5e.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/afe4d6c4cb9327f7ed80ff6bd78eca5e.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/a98600458866a4c9317feafd2fd70a28.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/a98600458866a4c9317feafd2fd70a28.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d82b67e24d268372e234cf44c361667f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d82b67e24d268372e234cf44c361667f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dd5d4da375bb35e3b43eb2a9145a6e30.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dd5d4da375bb35e3b43eb2a9145a6e30.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/518629686ed6f1fddd1c546875f942aa.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/518629686ed6f1fddd1c546875f942aa.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4a2ab0e41f57f57a5a7a6de4747b4473.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4a2ab0e41f57f57a5a7a6de4747b4473.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/82908e96fa201cba761ce433c705b106.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/82908e96fa201cba761ce433c705b106.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5326bb4ad513886b4443bd590b04b57f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5326bb4ad513886b4443bd590b04b57f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c971c9ac8ab4e1cfeada7c05af5d3ddf.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c971c9ac8ab4e1cfeada7c05af5d3ddf.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/a1a6f3dd000d5fd802ca07e77f8654b3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/a1a6f3dd000d5fd802ca07e77f8654b3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/12cacb17c52c323e4e864be470affb35.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/12cacb17c52c323e4e864be470affb35.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6713b89c20045acb0420a82655810ea9.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6713b89c20045acb0420a82655810ea9.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6e10034ba59f0d456ca9b913c3683ffd.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6e10034ba59f0d456ca9b913c3683ffd.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9944140b51452e63afa8f4a2e68fc506.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9944140b51452e63afa8f4a2e68fc506.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/58e4580fb257ebdd2af4e21f78254705.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/58e4580fb257ebdd2af4e21f78254705.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b2ff26abc5510d66987f94e56db3e901.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b2ff26abc5510d66987f94e56db3e901.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6ecb40c38a7db1dd2776a1852c090b96.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6ecb40c38a7db1dd2776a1852c090b96.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/318e8419d28a3d3f2e2d85c6c2f8041d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/318e8419d28a3d3f2e2d85c6c2f8041d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b1106e391f5119e547ca2b6d7a57f3c3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b1106e391f5119e547ca2b6d7a57f3c3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/74bd9c344b7c9e8a42b0067b1bf19645.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/74bd9c344b7c9e8a42b0067b1bf19645.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/03842576d723c0411e7fc34673b124e4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/03842576d723c0411e7fc34673b124e4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3882ccac14a6c441e7091db4e658c5ff.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3882ccac14a6c441e7091db4e658c5ff.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/a29dad4cb8cbfe8dcbc3869e64815993.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/a29dad4cb8cbfe8dcbc3869e64815993.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f44be8ef6aa9d8c16534250bb6ec27a4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f44be8ef6aa9d8c16534250bb6ec27a4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/af41d1d13c731cae31c74916a9718b27.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/af41d1d13c731cae31c74916a9718b27.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ebd8a3e6ce01b26d6c2cd7143310f8d6.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ebd8a3e6ce01b26d6c2cd7143310f8d6.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/8bd19467d74f868ad364496dda24bfb4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8bd19467d74f868ad364496dda24bfb4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/77b2409e3d4ad63020cfb2ad34dd24d6.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/77b2409e3d4ad63020cfb2ad34dd24d6.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5135288d8ef18f87dae3961683b406e1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5135288d8ef18f87dae3961683b406e1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/db85914cc582e8c05349b2495f197f39.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/db85914cc582e8c05349b2495f197f39.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f6c2c24d980db6a6257f7a6baacf5459.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f6c2c24d980db6a6257f7a6baacf5459.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/7eff59c60d43ade8c2cce2d47cde71ec.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/7eff59c60d43ade8c2cce2d47cde71ec.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/3d536f93f329beac594fe66d5016931f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/3d536f93f329beac594fe66d5016931f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f3a0ca3b8e759a23fc564ab47dfc8f6d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f3a0ca3b8e759a23fc564ab47dfc8f6d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/db850d7cf1f48d8f644871164b92b28b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/db850d7cf1f48d8f644871164b92b28b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/84ac4f4b680a83473514e768e25c14af.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/84ac4f4b680a83473514e768e25c14af.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ce77a459df86f0e5fdaee597e0ba0cc8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ce77a459df86f0e5fdaee597e0ba0cc8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2b115549505f9bfc096b2ea031eea435.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2b115549505f9bfc096b2ea031eea435.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dd4dbfb3731f50323b1fb8f26d40ce3b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dd4dbfb3731f50323b1fb8f26d40ce3b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/51b5f002d1c856cbdfdde8882e374f99.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/51b5f002d1c856cbdfdde8882e374f99.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f6ca5a466a974aa16bd343d0d95600ff.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f6ca5a466a974aa16bd343d0d95600ff.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9e52326102a148ddbe0b7d0727765549.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9e52326102a148ddbe0b7d0727765549.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c318fa1f2dc2845449dae4420b1a1b46.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c318fa1f2dc2845449dae4420b1a1b46.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/086a1f8baf663dd2c8d7c0a0f0baddef.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/086a1f8baf663dd2c8d7c0a0f0baddef.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/53e2dcffca3d3af4247d30a1121dc8fb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/53e2dcffca3d3af4247d30a1121dc8fb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/1d1da4b4774052aa1564d8f1b5f2ef9a.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/1d1da4b4774052aa1564d8f1b5f2ef9a.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/95c09eaac37126c9e7e8782d0b81c15c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/95c09eaac37126c9e7e8782d0b81c15c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ded64c7b560069940f4cf68807b82565.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ded64c7b560069940f4cf68807b82565.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6a93305fcbdf7e652bedf4e0264480cc.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6a93305fcbdf7e652bedf4e0264480cc.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/7a0128fc294f2bb4fff970a3aeacbbcf.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/7a0128fc294f2bb4fff970a3aeacbbcf.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ee67f7e5a60fc881bebdc69c7e56fd17.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ee67f7e5a60fc881bebdc69c7e56fd17.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/0a0f006803bc9c6f066459cf4f93ca94.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/0a0f006803bc9c6f066459cf4f93ca94.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/1d414880c06dd243749e533da9ca4999.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/1d414880c06dd243749e533da9ca4999.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/6ae74d17f567aa69f7251ad2961b528c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6ae74d17f567aa69f7251ad2961b528c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/7d7fac2ebdf5196532671b5de9ea8ac7.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/7d7fac2ebdf5196532671b5de9ea8ac7.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b356ad904c341fabf55ba323b6689f80.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b356ad904c341fabf55ba323b6689f80.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2dd881610fd00b0accd915e192500437.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2dd881610fd00b0accd915e192500437.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/aea58305d3709b55c82f8b4aafa79eb0.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/aea58305d3709b55c82f8b4aafa79eb0.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/14e3c4ef469e92f972f702bc17270754.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/14e3c4ef469e92f972f702bc17270754.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/4f877220672ee5e6348a6752fea343c1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/4f877220672ee5e6348a6752fea343c1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/14ce703304e917260294e03398106231.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/14ce703304e917260294e03398106231.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e0f78f6e11ea5652f4c560dc428faff2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e0f78f6e11ea5652f4c560dc428faff2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/07c796c583ac95cd3b9dddf64df5be7b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/07c796c583ac95cd3b9dddf64df5be7b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c948d453a72a5d438cb9e9a69cb194a4.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c948d453a72a5d438cb9e9a69cb194a4.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/23937113b674a28660617453902d35ea.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/23937113b674a28660617453902d35ea.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b07e8a1baad8ff3af28fe43c8b65639c.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b07e8a1baad8ff3af28fe43c8b65639c.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2b4999f3275ef37e7efa50252090da76.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2b4999f3275ef37e7efa50252090da76.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/f004f8e0db0a756ba4156cfd549ff038.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/f004f8e0db0a756ba4156cfd549ff038.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/c71b4e1ed9550a46918a49579b1a2340.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/c71b4e1ed9550a46918a49579b1a2340.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/753eaac2507c79fb560f53b766f5d353.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/753eaac2507c79fb560f53b766f5d353.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/fc26fcfd2ca833a9da8e87395c566ee9.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/fc26fcfd2ca833a9da8e87395c566ee9.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b60d18cc8a64cab61c215aca560a669d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b60d18cc8a64cab61c215aca560a669d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/10d258dd4b9a6a64f93049268b2f0bd3.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/10d258dd4b9a6a64f93049268b2f0bd3.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dae4a93653cc3136a0293edb5e283701.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dae4a93653cc3136a0293edb5e283701.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/959a8466e09baaec902ab2e041a7aae7.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/959a8466e09baaec902ab2e041a7aae7.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/dc76a084bf3653bae08786c56e031a2b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/dc76a084bf3653bae08786c56e031a2b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9abfa98ef1b38ea5276138b757e91917.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9abfa98ef1b38ea5276138b757e91917.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/eb3e856a4579b501f037ce9f465caf0f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/eb3e856a4579b501f037ce9f465caf0f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d86dcc6a72fa0eb5670beed19ca1bde6.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d86dcc6a72fa0eb5670beed19ca1bde6.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/81cf4009445488f81c2ca3ea4176b80e.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/81cf4009445488f81c2ca3ea4176b80e.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/162549f3956cb51c63b5d85a252ea4f2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/162549f3956cb51c63b5d85a252ea4f2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/b854c17b0db573b75abdcd963f24fa8d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/b854c17b0db573b75abdcd963f24fa8d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/46fcc181a9886ac6ece2bf27373f2c9f.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/46fcc181a9886ac6ece2bf27373f2c9f.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d6f22e494e7d3e2f2449a40eada15eef.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d6f22e494e7d3e2f2449a40eada15eef.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/969b6e1d795960e9faf0dec05cb495b1.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/969b6e1d795960e9faf0dec05cb495b1.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/eb41345b629b5645d7f30aafd06ca3d8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/eb41345b629b5645d7f30aafd06ca3d8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/5cf6c1d53c74fa72d1570358748f1edb.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5cf6c1d53c74fa72d1570358748f1edb.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/a7ef921cef0a63a6a86424711b5a6b02.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/a7ef921cef0a63a6a86424711b5a6b02.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/11fafb67bac7f426c90e351f8e1bef06.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/11fafb67bac7f426c90e351f8e1bef06.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/e850cc25cfbfa0a4c2bb3b9c73a859e5.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/e850cc25cfbfa0a4c2bb3b9c73a859e5.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/96b3e25ab3cfe853bbebdbf26e333d18.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/96b3e25ab3cfe853bbebdbf26e333d18.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/462087a0f5f6d779788e5b1c04a5c236.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/462087a0f5f6d779788e5b1c04a5c236.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/39ec24fa7ae0adf460068a967832762d.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/39ec24fa7ae0adf460068a967832762d.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/60ec9e4665840ddfc0a5ccef8a3de78a.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/60ec9e4665840ddfc0a5ccef8a3de78a.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d78dc7e90956480a5b7bb3a12ec84ed2.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d78dc7e90956480a5b7bb3a12ec84ed2.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/061cd9c888cbc910125ccbe56d38c652.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/061cd9c888cbc910125ccbe56d38c652.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/949b1584f22566961f44513815533483.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/949b1584f22566961f44513815533483.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/ef6e264c8381b5f75b8951bc5e46aa69.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/ef6e264c8381b5f75b8951bc5e46aa69.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/d26dfb86471ba6473b65131f6dbef947.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d26dfb86471ba6473b65131f6dbef947.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/22f5bb4e5cfec6a24ca621f9d6f792ee.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/22f5bb4e5cfec6a24ca621f9d6f792ee.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/52bc940374330441f43159b30f6c8da6.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/52bc940374330441f43159b30f6c8da6.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9c07e817bd6157210c0bef0ee5905209.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9c07e817bd6157210c0bef0ee5905209.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/35912f0eea87511b42eb7fef6a74e26b.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/35912f0eea87511b42eb7fef6a74e26b.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/239a2ec080a5defdfa8d286d51fbff58.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/239a2ec080a5defdfa8d286d51fbff58.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/82941e504bb11945e2b5929dc91cfbe8.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/82941e504bb11945e2b5929dc91cfbe8.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/2434836b57f8383beec7bb553f39a753.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/2434836b57f8383beec7bb553f39a753.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/9851811f9a53abd0c8289f954a13ddf5.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9851811f9a53abd0c8289f954a13ddf5.JPG" alt=""></a>
+			</li>
+						<li>
+				<a href="http://www.sman3surabaya.sch.id/assets/gallery/8f12f4dc2d4852e2356479ceee117080.JPG" rel="prettyPhoto[gallery-photo]" class="tips" original-title=""><img width="120px" height="120px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8f12f4dc2d4852e2356479ceee117080.JPG" alt=""></a>
+			</li>
+					</ul>
+
+			</div>
+</section>
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><i class="icon-comment icon-white"></i> Sambutan Kepala Sekolah</h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;text-align:justify;">
+					 					 Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya telah dapat menjadi bagian dari komponen pendidikan yang dapat melangkah memenuhi tuntutan era globalisasi serta mempersiapkan diri untuk menghadapi berbagai tantangannya. Dunia pendidikan sudah seharusnya mengikuti pesatnya perkembangan ilmu pengetahuan informasi da...
+					 <a href="http://www.sman3surabaya.sch.id/home/sambutan_kepala_sekolah">[selengkapnya]</a>
+				</li>
+		  </ul>
+	 </div>
+	 	 <div class="widget-title">
+		  <h4><i class="icon-question-sign icon-white"></i> Jajak Pendapat</h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="http://www.sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="http://www.sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<br>
+				<button id="submit-polling" type="submit" value="submit" name="submit" class="btn btn-small btn-default">SUBMIT</button>
+		  </form>		  <br>
+		  <a href="http://www.sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+	 </div>
+	 	 <div class="widget-title">
+		  <h4><i class="icon-picture icon-white"></i> Banner</h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="http://www.sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="http://www.sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="http://www.sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 <div class="widget-title">
+		  <h4><i class="icon-question-sign icon-white"></i> TEMUKAN KAMI DI FACEBOOK</h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+	<footer id="sub-footer" class="container">
+		<div class="footer-left">
+			<h4><strong>SMA NEGERI 3 SURABAYA</strong></h4>
+			<p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 
+				Telp. 031-3812356</p>
+			<ul id="social-network">
+								<li class="tips" title="Facebook"><a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank"><img alt="image" src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/icon/facebook.png"/></a></li>
+												<li class="tips" title="Twitter"><a href="@sman3sby" target="_blank"><img alt="image" src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/icon/twitter.png"/></a></li>
+												<li class="tips" title="Google"><a href="sman3sby" target="_blank"><img alt="image" src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/icon/google.png"/></a></li>
+												<li class="tips" title="Youtube"><a href="http://SMAN 3 Surabaya" target="_blank"><img alt="image" src="http://www.sman3surabaya.sch.id/views/themes/classic/assets/icon/youtube.png"/></a></li>
+							</ul>
+		</div>
+		<div class="footer-right">
+			<h4><strong>PHOTO TERBARU</strong></h4>
+			<ul id="footer-img" class="clearfix">
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/8e18c79aa9186269a629d79499abd74b.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/8e18c79aa9186269a629d79499abd74b.JPG" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/22c594d2d80a551849ce683a92c8287f.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/22c594d2d80a551849ce683a92c8287f.JPG" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/6164a9332ce9296e9fc1968ef80b3726.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/6164a9332ce9296e9fc1968ef80b3726.JPG" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/d7ca79bb3a901b47eac7230e3bd8eb7f.png" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/d7ca79bb3a901b47eac7230e3bd8eb7f.png" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/9c3ee7430f511bee0b69cb33f4403948.jpeg" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/9c3ee7430f511bee0b69cb33f4403948.jpeg" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/027d158c4c80ecacb6144e6951f053bf.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/027d158c4c80ecacb6144e6951f053bf.JPG" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/5af440ebc1f63d17739826ab89d0232b.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/5af440ebc1f63d17739826ab89d0232b.JPG" alt="">
+						</a>
+					</div>
+				</li>
+								<li>
+					<div>
+						<a href="http://www.sman3surabaya.sch.id/assets/gallery/214f0ec75cefead93aa2b58f5c4029c8.JPG" rel="prettyPhoto[gallery-footer]" class="tips" original-title="">
+							<img width="77px" height="77px" src="http://www.sman3surabaya.sch.id/assets/gallery/thumb/214f0ec75cefead93aa2b58f5c4029c8.JPG" alt="">
+						</a>
+					</div>
+				</li>
+							</ul>
+		</div>
+		<ul id="copyright-wrapper" class="clearfix">
+			<li>Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.
+			<br>Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121			<br>Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a> v1.4.7			</li>
+		</ul>
+	</footer>
+</div>
+</body>
+</html>

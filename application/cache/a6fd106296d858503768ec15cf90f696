@@ -1,0 +1,409 @@
+a:2:{s:6:"expire";i:1757020621;s:7:"headers";a:0:{}}ENDCI---><!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>SMA Negeri 3 Surabaya</title>
+	<meta name="description" content="Website resmi SMAN 3 Surabaya">
+	<meta name="keywords" content="CMS Sekolah, Website SMAN 3 Surabaya, CMS sekolahku, http://sekolahku.web.id">
+	<meta name="author" content="sekolahku.web.id">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+	<link rel="shortcut icon" href="http://sman3surabaya.sch.id/assets/images/icon.png">
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/flexslider.css" rel="stylesheet" type="text/css" />
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/css/prettyphoto.css" rel="stylesheet" type="text/css" />
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/css/custom.css" rel="stylesheet" type="text/css" />
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/css/form.css" rel="stylesheet" type="text/css" />
+	<link href="http://sman3surabaya.sch.id/views/themes/default/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<script src="http://sman3surabaya.sch.id/assets/backend/js/jquery.min.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/views/themes/default/assets/js/jquery.accordion.source.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/views/themes/default/assets/plugin/slider/jquery.flexslider-min.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/views/themes/default/assets/plugin/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/views/themes/default/assets/js/plugins.library.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/views/themes/default/assets/js/init.js" type="text/javascript"></script>
+	<script src="http://sman3surabaya.sch.id/assets/js/action.js" type="text/javascript"></script>
+</head>
+<body>
+<style type="text/css">
+.f-nav{  /* To fix main menu container */
+    z-index: 9999;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+</style>
+<script type="text/javascript">
+$("document").ready(function($){
+	$(".accordion").slideUp();
+	$('ul').accordion();
+	$("#openmobi").click(function(){
+		$(".accordion").slideToggle();
+  	});
+
+	var nav = $('#primary-navigator');
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 125) {
+			nav.addClass("f-nav");
+		} else {
+			nav.removeClass("f-nav");
+		}
+	});
+});
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+	<section id="top-bar" class="clearfix">
+		<div class="container">
+			<ul id="top-nav" class="clearfix">
+				<li id="clock"></li>
+				<li id="rss-feed"><a href="http://sman3surabaya.sch.id/home/rss" target="_blank">RSS</a></li>
+				<li id="subscribe"><a href="http://sman3surabaya.sch.id/home/peta_situs">Peta Situs</a></li>
+			</ul>
+		</div>
+	</section>
+	<header id="primary-header">
+		<div class="header">
+		    <div class="logo"> 
+			    <a href="http://sman3surabaya.sch.id/"><img src="http://sman3surabaya.sch.id/assets/images/4a5b14b1bf7dfbf254fe4d4f9e665b5d.png" alt="LOGO"/></a>
+			</div>
+			<div class="social">
+			    <div class="icon">
+				    				        <a href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr" target="_blank">
+						    <i class="fa fa-facebook"></i>
+						</a>
+				    				    				        <a href="@sman3sby" target="_blank">
+						    <i class="fa fa-twitter"></i>
+						</a>
+				    				    				        <a href="sman3sby" target="_blank">
+						    <i class="fa fa-google-plus"></i>
+						</a>
+				    				    				        <a href="http://SMAN 3 Surabaya" target="_blank">
+						    <i class="fa fa-youtube"></i>
+						</a>
+				    				</div>
+				<div class="schinfo">
+			        <div class="sch inleft">
+				    Alamat : Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121				    </div>
+				    <div class="sch incenter">
+				    031-3812356				    </div>
+			    </div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</header>
+    <div id="fixed-wrapper">
+	
+	<div class="mobimenu">
+	        <div id="openmobi"><span>MENU</span></div>
+            <ul class="accordion">
+			    <li class="current">
+				    <a href="http://sman3surabaya.sch.id/">HOME</a>
+				</li>
+				<li class="level1"><a href="http://sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li class="level1"><a href="http://sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='http://sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li class="level1"><a href="http://sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='http://sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li class="level1"><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li class="level2"><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li class="level1"><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="http://sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li>
+								<li ><a href="http://sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li class="level1"><a href="#">GALERI</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			
+			</ul>
+	</div>
+	
+	<nav id="primary-navigator">
+		<div class="container">
+			<ul id="primary-navigator-list" class="tree-menu">
+				<li class="current"><a href="http://sman3surabaya.sch.id/">HOME</a></li>
+				<li ><a href="http://sman3surabaya.sch.id/home/readmore/163/ppdb-2025">PPDB 2025</a></li><li ><a href="http://sman3surabaya.sch.id/#">PROFIL</a><ul><li '><a href='http://sman3surabaya.sch.id/home/readmore/8/visi-misi'>VISI - MISI</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/6/sejarah-singkat'>SEJARAH SINGKAT</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/7/struktur-organisasi'>STRUKTUR ORGANISASI</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/5/sarana-dan-prasarana'>SARANA DAN PRASARANA</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/12/program-sekolah'>PROGRAM SEKOLAH</a></li></ul></li><li ><a href="http://sman3surabaya.sch.id/#">DATA ONLINE</a><ul><li '><a href='http://sman3surabaya.sch.id/home/readmore/55/rapor-online'>RAPOR ONLINE</a></li><li '><a href='http://sman3surabaya.sch.id/home/readmore/56/ujian-online'>UJIAN ONLINE</a></li></ul></li>				<li ><a href="#">DIREKTORI</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/ptk">DIREKTORI GURU</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/siswa">DIREKTORI SISWA</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/alumni">DIREKTORI ALUMNI</a></li>
+						<li><a href="#">PRESTASI</a>
+							<ul>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_sekolah">PRESTASI SEKOLAH</a></li>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_ptk">PRESTASI GURU</a></li>
+								<li><a href="http://sman3surabaya.sch.id/home/prestasi_siswa">PRESTASI SISWA</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+
+				
+				
+				
+								<li ><a href="#">DOWNLOAD</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/files/1">PERMENDIKBUD</a></li><li><a href="http://sman3surabaya.sch.id/home/files/2">UNDANG-UNDANG</a></li>					</ul>
+				</li> 
+								<li ><a href="http://sman3surabaya.sch.id/home/agenda_sekolah">AGENDA</a></li>
+				<li ><a href="#">GALERI</a>
+					<ul>
+						<li><a href="http://sman3surabaya.sch.id/home/album">GALERI FOTO</a></li>
+						<li><a href="http://sman3surabaya.sch.id/home/video">GALERI VIDEO</a></li>
+					</ul>
+				</li>
+				<li ><a href="http://sman3surabaya.sch.id/home/hubungi_kami">KONTAK</a></li>
+			</ul>
+		</div>
+	</nav>
+
+    </div>
+
+    <section id="content-wrapper" class="container">
+    <section id="main-content" class="home">
+	<div class="widget-title">
+		<h4>INFORMASI SEKOLAH <i class="fa fa-newspaper-o"></i></h4>
+	</div>
+	<div class="widget" style="margin-top:1px;">
+				<ul class="post-list">
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/696466168083f4769bff4523b1bc2822.png" alt="SMA Negeri 3 Surabaya Siapkan Siswa Eligible untuk Lolos SNBP ke Universitas Impian"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/160/sma-negeri-3-surabaya-siapkan-siswa-eligible-untuk-lolos-snbp-ke-universitas-impian">SMA Negeri 3 Surabaya Siapkan Siswa Eligible untuk Lolos SNBP ke Universitas Impian</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 11 Feb 2025 <i class="fa fa-user"></i> Administrator</div>
+									<p>Surabaya, 11 Februari 2025 &ndash; Dalam rangka menghantarkan siswa-siswinya menuju perguruan tinggi impian melalui Seleksi Nasional Berdasarkan Prestasi (SNBP), SMA Negeri 3 Surabaya menggelar serangkaian kegiatan pendampingan bagi siswa eligib...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/686513dc4d0007195c642b4b2499afb2.jpeg" alt="SMA Negeri 3 Surabaya Tanamkan Cinta Budaya melalui P5: Dari Tari Remo hingga Belajar Batik di Jogjakarta"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/161/sma-negeri-3-surabaya-tanamkan-cinta-budaya-melalui-p5-dari-tari-remo-hingga-belajar-batik-di-jogjakarta">SMA Negeri 3 Surabaya Tanamkan Cinta Budaya melalui P5: Dari Tari Remo hingga Belajar Batik di Jogjakarta</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 11 Feb 2025 <i class="fa fa-user"></i> Administrator</div>
+									<p>Surabaya, 6 Februari 2025 &ndash; Komitmen SMA Negeri 3 Surabaya dalam mencetak generasi muda yang mencintai budayanya terus diwujudkan melalui berbagai kegiatan. Mengusung semangat peribahasa &quot;Tak Kenal maka Tak Sayang,&quot; sekolah ini m...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/60250e14006e8764dafbcfb8a7e16c08.jpeg" alt="KELUARGA BESAR SMA NEGERI 3 SURABAYA, MENGUCAPKAN SELAMAT KEPADA SISWA-SISWI YANG LULUS DAN TELAH SUKSES MENYELESAIKAN PEMBELAJARAN DI SMA NEGERI 3 SURABAYA"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/151/keluarga-besar-sma-negeri-3-surabaya-mengucapkan-selamat-kepada-siswa-siswi-yang-lulus-dan-telah-sukses-menyelesaikan-pembelajaran-di-sma-negeri-3-surabaya">KELUARGA BESAR SMA NEGERI 3 SURABAYA, MENGUCAPKAN SELAMAT KEPADA SISWA-SISWI YANG LULUS DAN TELAH SUKSES MENYELESAIKAN PEMBELAJARAN DI SMA NEGERI 3 SURABAYA</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 06 Mei 2024 <i class="fa fa-user"></i> Administrator</div>
+									<p>http://athaa11study.blogspot.com...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/6a20c98337f586e5b52b3944201e10dc.png" alt="CONGRATULATIONS - click disini"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/146/congratulations-click-disini">CONGRATULATIONS - click disini</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 28 Mar 2024 <i class="fa fa-user"></i> Administrator</div>
+									<p>Keluarga besar SMA Negeri 3 Surabaya menyampaikan Selamat dan Sukses kepada 55 Siswa yang telah diterima di Perguruan Tinggi Negeri
+
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+
+2 AISYAH ALIYAH XII IBB S1 PG-...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/691bc7f9a727071b8225e7820fd0480c.jpg" alt="Pra MPLS Smaga 2023"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/133/pra-mpls-smaga-2023">Pra MPLS Smaga 2023</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 15 Jul 2023 <i class="fa fa-user"></i> Administrator</div>
+									<p>PRA MPLS SMA NEGERI 3 SURABAYA 2023
+
+Surabaya, 14 Juli 2023 - SMA Negeri 3 Surabaya telah mengadakan kegiatan Pra Masa Pengenalan Lingkungan Sekolah (MPLS) sebagai bagian dari persiapan menyambut para peserta didik baru. Acara tersebut dilaksa...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/6e4dcc74c297c95dae2ea03475855955.jpg" alt="Pemilihan Putra dan Putri SMA Negeri 3 Surabaya"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/106/pemilihan-putra-dan-putri-sma-negeri-3-surabaya">Pemilihan Putra dan Putri SMA Negeri 3 Surabaya</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 27 Mar 2022 <i class="fa fa-user"></i> Administrator</div>
+									<p>Ajang Menemukan Panutan Teman Sebaya
+
+Putra-Putri Sekolah merupakan ajang pemilihan untuk mencari pasangan peserta didik yang akan menjadi duta atau lambang sekolah. Ajang ini memang bukan hal yang baru dilakukan di berbagai sekolah. Hampir se...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/73ef1dabac376d4cf00ef86ba899425a.JPG" alt="TEST PENJURUSAN PEMINATAN KLAS X 2021 - SMA NEGERI 3 SURABAYA"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/91/test-penjurusan-peminatan-klas-x-2021-sma-negeri-3-surabaya">TEST PENJURUSAN PEMINATAN KLAS X 2021 - SMA NEGERI 3 SURABAYA</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 24 Jun 2021 <i class="fa fa-user"></i> Administrator</div>
+									<p>Kepada
+
+Yth. Bapak Ibu Wali Murid Siswa Kelas X
+
+di&nbsp; &nbsp;-&nbsp;
+
+&nbsp; &nbsp; &nbsp;Tempat
+
+&nbsp;
+
+Sehubungan dengan pembentukan Jurusan (MIPA, IPS, &amp; Bahasa) maka dengan ini SMA Negeri 3 Surabaya mengadakan Test Penjurus...</p>
+							</li>
+						<li class="clearfix">
+															<img src="http://sman3surabaya.sch.id/assets/post/thumb/e96334f3b6e8d515cb149d9e13574425.jpeg" alt="Berkibar Darma Wanita SMAN 3 Surabaya"/>
+									
+				<h4><a href="http://sman3surabaya.sch.id/home/readmore/78/berkibar-darma-wanita-sman-3-surabaya">Berkibar Darma Wanita SMAN 3 Surabaya</a></h4>
+				<div class="metadata"><i class="fa fa-calendar"></i> 08 Jun 2021 <i class="fa fa-user"></i> Administrator</div>
+									<p>Sejarah Dharma Wanita Persatuan berawal pada 5 Agustus 1974 saat organisasi para Isteri Pegawai Republik Indonesia pada masa Pemrintahan Orde Baru itu dibentuk dengan nama Dharma Wanita. Organisasi ini didirikan oleh Ketua Dewan Pembina KORPRI s...</p>
+							</li>
+					</ul>
+					</div>
+</section>
+<script src="http://sman3surabaya.sch.id/views/themes/default/assets/moodal/js/bootstrap.js"></script>
+<link href="http://sman3surabaya.sch.id/views/themes/default/assets/moodal/css/bootstrap.css" rel="stylesheet">
+<aside id="aside-secondary">
+	 	 <div class="widget-title">
+		  <h4><span class="ja ji">Sambutan Kepala Sekolah</span> <i class="fa fa-microphone"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <ul class="post-list">
+				<li class="clearfix" style="padding:0;">
+				    <div class="sambut">
+					    					</div>
+					 <p>Assalamualaikum.Wr.Wb.
+
+Puji syukur kami panjatkan ke hadirat Allah SWT atas berkat, rahmat serta hidayah-Nya sehingga SMA Negeri 3 Surabaya ...</p>
+					 <p><a class="samkep" href="http://sman3surabaya.sch.id/home/sambutan_kepala_sekolah">Selengkapnya..<i class="fa fa-angle-right"></i></a></p>
+				</li>
+		  </ul>
+	 </div>
+	 
+	 <div class="widget-title">
+		  <h4><span>Jajak Pendapat</span> <i class="fa fa-star"></i></h4>
+	 </div>
+	 <div class="widget">
+		  <div id="message-polling" style="display:none;"></div>
+		  <img id="loading-polling" style="display:none;" src="http://sman3surabaya.sch.id/assets/loading.gif">
+		  <form action="http://sman3surabaya.sch.id/home/polling" class="form-inline" role="form" id="form-polling" method="post" accept-charset="utf-8">
+				<p>Apakah informasi website ini berguna bagi anda ?</p>
+								<label for="5">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="5"/> Sangat Berguna				</label>
+								<label for="6">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="6"/> Berguna				</label>
+								<label for="7">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="7"/> Cukup Berguna				</label>
+								<label for="8">
+					 <input type="radio" id="jawaban_id" name="jawaban_id" value="8"/> Kurang Berguna				</label>
+								<div class="botpoll">
+				    <button id="submit-polling" type="submit" value="submit" name="submit">SUBMIT</button><a class="jawaban" href="http://sman3surabaya.sch.id/home/result_polling">Lihat Jawaban</a>
+				</div>
+		  </form>	 </div>
+	 	 <div class="widget-title">
+		  <h4><span>Banner </span> <i class="fa fa-heart"></i></h4>
+	 </div>
+	 <div class="widget">
+		<div class="banner"><a href="http://profilsekolah.dispendik.surabaya.go.id/umum/sekolah.php?j=SMA&npsn=277" title="Profil SMAN 3 Surabaya pada Data Dinas Pendidikan Kota Surabaya" target="_blank"><img src="http://sman3surabaya.sch.id/assets/banner/cc6ce146a00fb185869166770dc7d7cb.jpg"></a></div><div class="banner"><a href="http://sekolah.data.kemdikbud.go.id/index.php/chome/profil/2B2A2359-9709-49AC-8CC6-C6BCF66C529C" title="Data SMA Negeri 3 Surabaya dalam Data Pokok Pendidikan" target="_blank"><img src="http://sman3surabaya.sch.id/assets/banner/b64f36f6291208730fcd320ff3135b80.jpg"></a></div><div class="banner"><a href="https://guruinovatif-my.sharepoint.com/:i:/p/gunawanwahana/EQVBv2P7s0lMqbXCuVNHIpABoFreixyy36u7f0TIu" title="NO NAMA SISWA KELAS/JURUSAN JURUSAN PTN NAMA PTN KABUPATEN/KOTA PTN
+1 PUTRI WIWIT ROSIANA XII IBB S1 STUDI KEJEPANGAN UNAIR SURABAYA, JAWA TIMUR
+2 AISYAH ALIYAH XII IBB S1 PG-PAUD UNIV. SEBELAS MARET SOLO, JAWA TENGAH
+3 ANDINI MAULIDIYAH XII IPS 1 S1 B" target="_blank"><img src="http://sman3surabaya.sch.id/assets/banner/7a6c925784d82fae8a2afd35d168eb4b.png"></a></div>	 </div>
+	 	 
+	 		<div class="widget-title">
+		<h4><span>Kategori</span> <i class="fa fa-folder-open"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="http://sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="http://sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Arsip 2025</span> <i class="fa fa-calendar-check-o"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="http://sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="http://sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="http://sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		</ul>
+	</div>
+	
+		<div class="widget-title">
+		<h4><span>Tautan</span> <i class="fa fa-list"></i></h4>
+	</div>
+	<div class="widget">
+		<ul class="ul-list clearfix">
+			<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		</ul>
+	</div>
+	
+	 <div class="widget-title">
+		  <h4><span>KAMI DI FACEBOOK</span> <i class="fa fa-facebook"></i></h4>
+	 </div>
+	 <div class="widget" style="background:#fff;">
+		  <div class="fb-like-box"
+				data-href="https://web.facebook.com/SMA-NEGERI-3-SURABAYA-100289214947/?_rdr"
+				data-height="350"
+				data-width="250"
+				data-colorscheme="light"
+				data-show-faces="true"
+				data-header="false"
+				data-stream="false"
+				data-show-border="false">
+		  </div>
+		  <br>
+		  <br>
+	 </div>
+</aside>    </section>
+
+<footer id="sub-footer">
+    <div id="footcont" class="clearfix">
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>DATA SEKOLAH</h4>
+	        </div>
+			<div class="list">
+			    <h4>SMA NEGERI 3 SURABAYA</h4>
+			    <p>Jl. Memet Sastrowiryo, Komplek TNI AL - Kenjeran, Surabaya, Jawa Timur, 60121 <br/><br/>
+				<i class="fa fa-phone"></i>  031-3812356<br/>
+				<i class="fa fa-envelope"></i>  info@sman3surabaya.sch.id			    </p>
+			</div>
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            	<h4>Kategori</h4>
+	        </div>
+		            	<div class="list">
+	        	<ul class="ul-list clearfix">
+	        		<li><a href="http://sman3surabaya.sch.id/home/category/1">Informasi Sekolah <span>8</span></a></li><li><a href="http://sman3surabaya.sch.id/home/category/3">Pengumuman <span>1</span></a></li><li><a href="http://sman3surabaya.sch.id/home/category/2">Update Berita <span>22</span></a></li>		        </ul>
+	        </div>
+	        	    
+		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Arsip 2025</h4>
+	        </div>
+				        <div class="list">
+		        <ul class="ul-list clearfix">
+		        	<li><a href="http://sman3surabaya.sch.id/home/archive/01/2025" title="Arsip berita bulan Januari">Januari <span>4</span></a></li><li><a href="http://sman3surabaya.sch.id/home/archive/02/2025" title="Arsip berita bulan Februari">Februari <span>7</span></a></li><li><a href="http://sman3surabaya.sch.id/home/archive/05/2025" title="Arsip berita bulan Mei">Mei <span>5</span></a></li>		        </ul>
+	        </div>
+	        		</div>
+		<div class="infooter">
+		    <div class="footer-title">
+	            <h4>Tautan</h4>
+	        </div>
+		    	        <div class="list">
+		        <ul class="ul-list clearfix">
+		     	<li><a href="https://s.id/sman3surabaya" target="_blank" title="https://s.id/sman3surabaya">Virtual Sekolah SMAN 3 Surabaya</a></li><li><a href="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc" target="_blank" title="https://www.tiktok.com/@sman3surabaya?is_from_webapp=1&sender_device=pc">TIKTOK SMAGA</a></li><li><a href="https://www.youtube.com/@officialsman3sby" target="_blank" title="https://www.youtube.com/@officialsman3sby">Youtube SMAGA</a></li><li><a href="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="https://www.instagram.com/sman3surabaya?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Instagram SMAGA</a></li><li><a href="https://www.youtube.com/watch?v=fujqdmjSo7o" target="_blank" title="https://www.youtube.com/watch?v=fujqdmjSo7o">Lulusan 2025</a></li>		        </ul>
+	        </div>
+	        		</div>
+	</div>
+		<div id="copyright-wrapper" class="clearfix">
+		    <div class="footcopy">
+			    <div class="copyright">Copyright © 2025 SMA Negeri 3 Surabaya. All Rights Reserved.</div>
+			    <div class="dev"><span class="eloper">Developed by <a href="http://sekolahku.web.id" target="_blank">sekolahku.web.id</a></span></div>
+			</div>
+		</div>
+</footer>
+</div>
+</body>
+</html>
