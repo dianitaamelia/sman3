@@ -403,6 +403,7 @@ if (!function_exists('themes')) {
       return [
          'classic' => 'Classic',
          'default' => 'Default',
+         'modern' => 'Modern',
       ];
    }
 }
