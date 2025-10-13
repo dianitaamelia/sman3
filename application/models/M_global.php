@@ -287,6 +287,14 @@ class M_global extends CI_Model {
 			->get('posts');
 	}
 
+	public function get_prestasi_4_only() {
+		return $this->db->select('post_id, post_title, post_content, post_image, post_type')
+			->where_in('post_type', array('prestasi_sekolah', 'prestasi_ptk', 'prestasi_siswa'))
+			->order_by('RAND()')
+			->limit(4)
+			->get('posts');
+	}
+
 	public function get_recent_photo() {
 		return $this->db
 			->select('photo_id, photo_title, photo_thumb, photo_original')
@@ -317,6 +325,23 @@ class M_global extends CI_Model {
 			WHERE p.post_type = 'post'
 			ORDER BY RAND()
 			LIMIT 5
+		");
+	}
+
+	public function more_post_3_only() {
+		return $this->db->query("
+			SELECT p.post_id,
+				p.post_date,
+				p.post_title,
+				c.category,
+				p.post_content,
+				p.post_image,
+				p.slug
+			FROM posts p
+			LEFT JOIN category c ON c.category_id = p.category_id
+			WHERE p.post_type = 'post'
+			ORDER BY RAND()
+			LIMIT 3
 		");
 	}
 

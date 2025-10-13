@@ -29,9 +29,17 @@ class Home extends MY_Controller {
       $this->data['home'] = true;
       $this->data['pengumuman'] = $this->m_global->posts('pengumuman');
       $this->data['more_post'] = $this->m_global->more_post();
+      $this->data['prestasi_home'] = $this->m_global->get_prestasi_4_only();
+      $this->data['more_post_3_only'] = $this->m_global->more_post_3_only();
       $this->data['video'] = $this->m_global->get_recent_video();
+
+      
       $this->data['content'] = 'themes/' . $this->setting['themes'] . '/home';
       $this->load->view('themes/' . $this->setting['themes'] . '/index', $this->data);
+   //  echo "<pre>";
+   //  print_r($this->data);
+   //  echo "</pre>";
+   //  exit;
    }
 
    public function readmore() {
