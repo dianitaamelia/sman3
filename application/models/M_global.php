@@ -290,7 +290,7 @@ class M_global extends CI_Model {
 	public function get_prestasi_4_only() {
 		return $this->db->select('post_id, post_title, post_content, post_image, post_type')
 			->where_in('post_type', array('prestasi_sekolah', 'prestasi_ptk', 'prestasi_siswa'))
-			->order_by('RAND()')
+			->order_by('post_id', 'DESC') // urutkan berdasarkan id terbaru
 			->limit(4)
 			->get('posts');
 	}
@@ -340,7 +340,7 @@ class M_global extends CI_Model {
 			FROM posts p
 			LEFT JOIN category c ON c.category_id = p.category_id
 			WHERE p.post_type = 'post'
-			ORDER BY RAND()
+			ORDER BY p.post_id DESC
 			LIMIT 3
 		");
 	}
